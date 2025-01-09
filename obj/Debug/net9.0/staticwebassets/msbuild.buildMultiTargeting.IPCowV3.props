@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/IPCowV3.props" />
+</Project>
