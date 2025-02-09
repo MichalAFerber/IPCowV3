@@ -1,6 +1,8 @@
 /Users/michal/Documents/GitHub/IPCowV3/publish/IPCowV3
 /Users/michal/Documents/GitHub/IPCowV3/publish/appsettings.Development.json
 /Users/michal/Documents/GitHub/IPCowV3/publish/appsettings.json
+/Users/michal/Documents/GitHub/IPCowV3/publish/package-lock.json
+/Users/michal/Documents/GitHub/IPCowV3/publish/package.json
 /Users/michal/Documents/GitHub/IPCowV3/publish/IPCowV3.dll
 /Users/michal/Documents/GitHub/IPCowV3/publish/IPCowV3.deps.json
 /Users/michal/Documents/GitHub/IPCowV3/publish/IPCowV3.runtimeconfig.json
@@ -11,6 +13,7 @@
 /Users/michal/Documents/GitHub/IPCowV3/publish/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/michal/Documents/GitHub/IPCowV3/publish/Microsoft.EntityFrameworkCore.Sqlite.dll
 /Users/michal/Documents/GitHub/IPCowV3/publish/Microsoft.Extensions.DependencyModel.dll
+/Users/michal/Documents/GitHub/IPCowV3/publish/Newtonsoft.Json.dll
 /Users/michal/Documents/GitHub/IPCowV3/publish/SQLitePCLRaw.batteries_v2.dll
 /Users/michal/Documents/GitHub/IPCowV3/publish/SQLitePCLRaw.core.dll
 /Users/michal/Documents/GitHub/IPCowV3/publish/SQLitePCLRaw.provider.e_sqlite3.dll

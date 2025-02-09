@@ -137,3 +137,7 @@
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/mqvuue8adh-493y06b0oq.gz
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/hcqjj9h2xu-n2v03umt6j.gz
 /Users/michal/Documents/GitHub/IPCowV3/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/michal/Documents/GitHub/IPCowV3/bin/Debug/net9.0/publish/package-lock.json
+/Users/michal/Documents/GitHub/IPCowV3/bin/Debug/net9.0/publish/package.json
+/Users/michal/Documents/GitHub/IPCowV3/bin/Debug/net9.0/publish/wwwroot/img/favicons/manifest.json
+/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/IPCowV3.sourcelink.json

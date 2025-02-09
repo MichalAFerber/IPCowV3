@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VxvcbDQpyQmjaxi/G6SIILJFGTpWT/5JlpZ0JrcfK0s=",
+  "Hash": "/k9hExNgoo18sPKTGyCHEMCcELCl4oVGS8Ci9zkmPbg=",
   "Source": "IPCowV3",
   "BasePath": "_content/IPCowV3",
   "Mode": "Default",
@@ -38,6 +38,27 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/0d1x3kgfjf-f3doc4w353.gz",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "js/color-modes#[.{fingerprint=f3doc4w353}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/color-modes.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6pwvpuohn4",
+      "Integrity": "tpeG7Gkf/vmrQ6IJDDbXIXwCcoPc2eskTYZTNn9qtOE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/color-modes.js"
+    },
+    {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/0imbwqr9mk-37tfw0ft22.gz",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
@@ -57,27 +78,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
-    },
-    {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/2iw6y58oev-xtxxf3hu2r.gz",
-      "SourceId": "IPCowV3",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
-      "BasePath": "_content/IPCowV3",
-      "RelativePath": "js/site#[.{fingerprint=xtxxf3hu2r}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/site.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "pmnrhqz0gl",
-      "Integrity": "YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/site.js"
     },
     {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/2k5656gyd8-mrlpezrjn3.gz",
@@ -479,25 +479,25 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/byll86qz4k-9u4y6w28h2.gz",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/bwykvq1u49-le0kaysxk7.gz",
       "SourceId": "IPCowV3",
-      "SourceType": "Computed",
+      "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "IPCowV3#[.{fingerprint=9u4y6w28h2}]?.styles.css.gz",
+      "RelativePath": "img/favicons/manifest#[.{fingerprint=le0kaysxk7}]?.json.gz",
       "AssetKind": "All",
-      "AssetMode": "CurrentProject",
+      "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/bundle/IPCowV3.styles.css",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "y2lmz07o5g",
-      "Integrity": "xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI=",
+      "Fingerprint": "it5w0vg8kw",
+      "Integrity": "ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/bundle/IPCowV3.styles.css"
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json"
     },
     {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/c3yk13iyhv-6pdc2jztkx.gz",
@@ -731,12 +731,12 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/hcqjj9h2xu-b9sayid5wm.gz",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/hcqjj9h2xu-n2v03umt6j.gz",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=n2v03umt6j}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -745,8 +745,8 @@
       "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pw5l7j5n1s",
-      "Integrity": "KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=",
+      "Fingerprint": "9buc9ubge9",
+      "Integrity": "i0rVjcUDqUyrv0xx2hJFSeAZqqmCUkc8LxW3uqCcOwA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/site.css"
@@ -983,25 +983,25 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/m8fzgnplx1-9u4y6w28h2.gz",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/mqvuue8adh-493y06b0oq.gz",
       "SourceId": "IPCowV3",
-      "SourceType": "Computed",
+      "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "IPCowV3#[.{fingerprint=9u4y6w28h2}]!.bundle.scp.css.gz",
+      "RelativePath": "js/bootstrap.bundle.min#[.{fingerprint=493y06b0oq}]?.js.gz",
       "AssetKind": "All",
-      "AssetMode": "Reference",
+      "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/projectbundle/IPCowV3.bundle.scp.css",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/bootstrap.bundle.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "y2lmz07o5g",
-      "Integrity": "xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI=",
+      "Fingerprint": "cyi8aijtl7",
+      "Integrity": "DKxtpOFRkjSEaPf7hRuWjmLIaLKqWeH4MMNTVQusPtg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/projectbundle/IPCowV3.bundle.scp.css"
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/bootstrap.bundle.min.js"
     },
     {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/nibdmm8ms3-fvhpjtyr6v.gz",
@@ -1046,6 +1046,27 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-mgoehz687i.gz",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/favicon#[.{fingerprint=mgoehz687i}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "f1kxp8pf3j",
+      "Integrity": "swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.ico"
+    },
+    {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/o0z4db34yw-ag7o75518u.gz",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
@@ -1065,6 +1086,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/o1rfewhqjq-46ein0sx1k.gz",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint=46ein0sx1k}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "tjkh9ole7z",
+      "Integrity": "t6QWSwy3Hj2vujZrQx105pCheaKB1HxwaYvEfAj2ZQQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/bootstrap.min.css"
     },
     {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ocz01wuby7-rzd6atqjts.gz",
@@ -1340,6 +1382,27 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/jquery/dist/jquery.slim.min.js"
     },
     {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/xdiv9tz906-d8dgtachxr.gz",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/safari-pinned-tab#[.{fingerprint=d8dgtachxr}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "42ob0vgl4w",
+      "Integrity": "dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg"
+    },
+    {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/yl2i2ur7ox-47otxtyo56.gz",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
@@ -1361,46 +1424,25 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/bundle/IPCowV3.styles.css",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/bootstrap.min.css",
       "SourceId": "IPCowV3",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/bundle/",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "IPCowV3#[.{fingerprint}]?.styles.css",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
-      "AssetMode": "CurrentProject",
+      "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "9u4y6w28h2",
-      "Integrity": "/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24=",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "46ein0sx1k",
+      "Integrity": "PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/bundle/IPCowV3.styles.css"
-    },
-    {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/projectbundle/IPCowV3.bundle.scp.css",
-      "SourceId": "IPCowV3",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/projectbundle/",
-      "BasePath": "_content/IPCowV3",
-      "RelativePath": "IPCowV3#[.{fingerprint}]!.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "9u4y6w28h2",
-      "Integrity": "/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/projectbundle/IPCowV3.bundle.scp.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap.min.css"
     },
     {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/site.css",
@@ -1417,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "n2v03umt6j",
+      "Integrity": "safYvQyMZPf1R+Pn4xDH3j86qytFC2sp0SZnOtRId+o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -1445,12 +1487,12 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/site.js",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-192x192.png",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "RelativePath": "img/favicons/android-chrome-192x192#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,11 +1501,200 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "ghrynwdjak",
+      "Integrity": "XLkIyqoUaMedHAiv1suc8cNevoF37MhUkpCgle80Eec=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/site.js"
+      "OriginalItemSpec": "wwwroot/img/favicons/android-chrome-192x192.png"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-512x512.png",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/android-chrome-512x512#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3m20ef4gk5",
+      "Integrity": "xUjhGRh6B5CIcW/FI9f4ArmPe1XbACfMzOJ30J50jmU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/favicons/android-chrome-512x512.png"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/apple-touch-icon.png",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/apple-touch-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sg3wrf8d5a",
+      "Integrity": "dM8WkyJeermxe4p1JNGdKoTxgVRtMqLuy4pTpPFNkuQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/favicons/apple-touch-icon.png"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-16x16.png",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/favicon-16x16#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pkk6gfc25b",
+      "Integrity": "V2aPnKq/UBr774xPL0i46MnZ2oeZF8T6OVGniPbE5TY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/favicons/favicon-16x16.png"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-32x32.png",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/favicon-32x32#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c6qreg75d0",
+      "Integrity": "RHsS7P1QBMo/+FuD1kzZHebVQ69CBdzfliIhANhm3Fk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/favicons/favicon-32x32.png"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.ico",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mgoehz687i",
+      "Integrity": "qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/favicons/favicon.ico"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/manifest#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "le0kaysxk7",
+      "Integrity": "DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/favicons/manifest.json"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/safari-pinned-tab#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d8dgtachxr",
+      "Integrity": "A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/favicons/safari-pinned-tab.svg"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/bootstrap.bundle.min.js",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "js/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "493y06b0oq",
+      "Integrity": "CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/color-modes.js",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "js/color-modes#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f3doc4w353",
+      "Integrity": "tcvCdMB/ytz8OYwq+347rWirgTMjriZlxB810hq0C+Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/color-modes.js"
     },
     {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
@@ -2728,13 +2959,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/hcqjj9h2xu-b9sayid5wm.gz",
+      "Route": "css/bootstrap.min.46ein0sx1k.css",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/o1rfewhqjq-46ein0sx1k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.000032295569"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2975,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "30963"
         },
         {
           "Name": "ETag",
-          "Value": "\"KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=\""
+          "Value": "\"t6QWSwy3Hj2vujZrQx105pCheaKB1HxwaYvEfAj2ZQQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Wed, 08 Jan 2025 20:52:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,26 +3003,316 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "46ein0sx1k"
         },
         {
           "Name": "label",
-          "Value": "css/site.css"
+          "Value": "css/bootstrap.min.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/bootstrap.min.46ein0sx1k.css",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:52:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46ein0sx1k"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.46ein0sx1k.css.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/o1rfewhqjq-46ein0sx1k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t6QWSwy3Hj2vujZrQx105pCheaKB1HxwaYvEfAj2ZQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:52:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46ein0sx1k"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t6QWSwy3Hj2vujZrQx105pCheaKB1HxwaYvEfAj2ZQQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/o1rfewhqjq-46ein0sx1k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032295569"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30963"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t6QWSwy3Hj2vujZrQx105pCheaKB1HxwaYvEfAj2ZQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:52:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:52:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/o1rfewhqjq-46ein0sx1k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t6QWSwy3Hj2vujZrQx105pCheaKB1HxwaYvEfAj2ZQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:52:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t6QWSwy3Hj2vujZrQx105pCheaKB1HxwaYvEfAj2ZQQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/hcqjj9h2xu-n2v03umt6j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001479289941"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "675"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i0rVjcUDqUyrv0xx2hJFSeAZqqmCUkc8LxW3uqCcOwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:59:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"safYvQyMZPf1R+Pn4xDH3j86qytFC2sp0SZnOtRId+o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-safYvQyMZPf1R+Pn4xDH3j86qytFC2sp0SZnOtRId+o="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
       "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +3322,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "1690"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +3330,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"safYvQyMZPf1R+Pn4xDH3j86qytFC2sp0SZnOtRId+o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Wed, 08 Jan 2025 20:59:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-safYvQyMZPf1R+Pn4xDH3j86qytFC2sp0SZnOtRId+o="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/hcqjj9h2xu-n2v03umt6j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i0rVjcUDqUyrv0xx2hJFSeAZqqmCUkc8LxW3uqCcOwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:59:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i0rVjcUDqUyrv0xx2hJFSeAZqqmCUkc8LxW3uqCcOwA="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.n2v03umt6j.css",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/hcqjj9h2xu-n2v03umt6j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001479289941"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "675"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i0rVjcUDqUyrv0xx2hJFSeAZqqmCUkc8LxW3uqCcOwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:59:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"safYvQyMZPf1R+Pn4xDH3j86qytFC2sp0SZnOtRId+o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2v03umt6j"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-safYvQyMZPf1R+Pn4xDH3j86qytFC2sp0SZnOtRId+o="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.n2v03umt6j.css",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"safYvQyMZPf1R+Pn4xDH3j86qytFC2sp0SZnOtRId+o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:59:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +3489,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "n2v03umt6j"
         },
         {
           "Name": "label",
@@ -2831,13 +3497,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-safYvQyMZPf1R+Pn4xDH3j86qytFC2sp0SZnOtRId+o="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/hcqjj9h2xu-b9sayid5wm.gz",
+      "Route": "css/site.n2v03umt6j.css.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/hcqjj9h2xu-n2v03umt6j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +3512,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "675"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +3520,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=\""
+          "Value": "\"i0rVjcUDqUyrv0xx2hJFSeAZqqmCUkc8LxW3uqCcOwA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Wed, 08 Jan 2025 20:59:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3542,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "n2v03umt6j"
         },
         {
           "Name": "label",
@@ -2884,144 +3550,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/hcqjj9h2xu-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003134796238"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/hcqjj9h2xu-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA="
+          "Value": "sha256-i0rVjcUDqUyrv0xx2hJFSeAZqqmCUkc8LxW3uqCcOwA="
         }
       ]
     },
@@ -3324,13 +3853,423 @@
       ]
     },
     {
-      "Route": "IPCowV3.9u4y6w28h2.bundle.scp.css",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/m8fzgnplx1-9u4y6w28h2.gz",
+      "Route": "img/favicons/android-chrome-192x192.ghrynwdjak.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-192x192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XLkIyqoUaMedHAiv1suc8cNevoF37MhUkpCgle80Eec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 22:10:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghrynwdjak"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/android-chrome-192x192.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XLkIyqoUaMedHAiv1suc8cNevoF37MhUkpCgle80Eec="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/android-chrome-192x192.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-192x192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XLkIyqoUaMedHAiv1suc8cNevoF37MhUkpCgle80Eec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 22:10:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XLkIyqoUaMedHAiv1suc8cNevoF37MhUkpCgle80Eec="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/android-chrome-512x512.3m20ef4gk5.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-512x512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xUjhGRh6B5CIcW/FI9f4ArmPe1XbACfMzOJ30J50jmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 22:10:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3m20ef4gk5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/android-chrome-512x512.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xUjhGRh6B5CIcW/FI9f4ArmPe1XbACfMzOJ30J50jmU="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/android-chrome-512x512.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-512x512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xUjhGRh6B5CIcW/FI9f4ArmPe1XbACfMzOJ30J50jmU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 22:10:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xUjhGRh6B5CIcW/FI9f4ArmPe1XbACfMzOJ30J50jmU="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/apple-touch-icon.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/apple-touch-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dM8WkyJeermxe4p1JNGdKoTxgVRtMqLuy4pTpPFNkuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dM8WkyJeermxe4p1JNGdKoTxgVRtMqLuy4pTpPFNkuQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/apple-touch-icon.sg3wrf8d5a.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/apple-touch-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dM8WkyJeermxe4p1JNGdKoTxgVRtMqLuy4pTpPFNkuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sg3wrf8d5a"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/apple-touch-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dM8WkyJeermxe4p1JNGdKoTxgVRtMqLuy4pTpPFNkuQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/favicon-16x16.pkk6gfc25b.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-16x16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V2aPnKq/UBr774xPL0i46MnZ2oeZF8T6OVGniPbE5TY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pkk6gfc25b"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/favicon-16x16.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V2aPnKq/UBr774xPL0i46MnZ2oeZF8T6OVGniPbE5TY="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/favicon-16x16.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-16x16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V2aPnKq/UBr774xPL0i46MnZ2oeZF8T6OVGniPbE5TY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V2aPnKq/UBr774xPL0i46MnZ2oeZF8T6OVGniPbE5TY="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/favicon-32x32.c6qreg75d0.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-32x32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHsS7P1QBMo/+FuD1kzZHebVQ69CBdzfliIhANhm3Fk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c6qreg75d0"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/favicon-32x32.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHsS7P1QBMo/+FuD1kzZHebVQ69CBdzfliIhANhm3Fk="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/favicon-32x32.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-32x32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHsS7P1QBMo/+FuD1kzZHebVQ69CBdzfliIhANhm3Fk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHsS7P1QBMo/+FuD1kzZHebVQ69CBdzfliIhANhm3Fk="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/favicon.ico",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-mgoehz687i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001865671642"
+          "Quality": "0.000214638334"
         }
       ],
       "ResponseHeaders": [
@@ -3340,19 +4279,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "535"
+          "Value": "4658"
         },
         {
           "Name": "ETag",
-          "Value": "\"xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI=\""
+          "Value": "\"swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:41:23 GMT"
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3364,31 +4303,23 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "image/x-icon"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24=\""
+          "Value": "W/\"qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "9u4y6w28h2"
-        },
-        {
-          "Name": "label",
-          "Value": "IPCowV3.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24="
+          "Value": "sha256-qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk="
         }
       ]
     },
     {
-      "Route": "IPCowV3.9u4y6w28h2.bundle.scp.css",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/projectbundle/IPCowV3.bundle.scp.css",
+      "Route": "img/favicons/favicon.ico",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3397,43 +4328,35 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1076"
+          "Value": "15086"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "image/x-icon"
         },
         {
           "Name": "ETag",
-          "Value": "\"/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24=\""
+          "Value": "\"qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:41:23 GMT"
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "9u4y6w28h2"
-        },
-        {
-          "Name": "label",
-          "Value": "IPCowV3.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24="
+          "Value": "sha256-qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk="
         }
       ]
     },
     {
-      "Route": "IPCowV3.9u4y6w28h2.bundle.scp.css.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/m8fzgnplx1-9u4y6w28h2.gz",
+      "Route": "img/favicons/favicon.ico.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-mgoehz687i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3442,23 +4365,23 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "535"
+          "Value": "4658"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "image/x-icon"
         },
         {
           "Name": "ETag",
-          "Value": "\"xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI=\""
+          "Value": "\"swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:41:23 GMT"
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3471,27 +4394,19 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "9u4y6w28h2"
-        },
-        {
-          "Name": "label",
-          "Value": "IPCowV3.bundle.scp.css.gz"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI="
+          "Value": "sha256-swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA="
         }
       ]
     },
     {
-      "Route": "IPCowV3.9u4y6w28h2.styles.css",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/byll86qz4k-9u4y6w28h2.gz",
+      "Route": "img/favicons/favicon.mgoehz687i.ico",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-mgoehz687i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001865671642"
+          "Quality": "0.000214638334"
         }
       ],
       "ResponseHeaders": [
@@ -3501,15 +4416,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "535"
+          "Value": "4658"
         },
         {
           "Name": "ETag",
-          "Value": "\"xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI=\""
+          "Value": "\"swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:41:23 GMT"
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3525,31 +4440,31 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "image/x-icon"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24=\""
+          "Value": "W/\"qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9u4y6w28h2"
+          "Value": "mgoehz687i"
         },
         {
           "Name": "label",
-          "Value": "IPCowV3.styles.css"
+          "Value": "img/favicons/favicon.ico"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24="
+          "Value": "sha256-qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk="
         }
       ]
     },
     {
-      "Route": "IPCowV3.9u4y6w28h2.styles.css",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/bundle/IPCowV3.styles.css",
+      "Route": "img/favicons/favicon.mgoehz687i.ico",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3558,19 +4473,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1076"
+          "Value": "15086"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "image/x-icon"
         },
         {
           "Name": "ETag",
-          "Value": "\"/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24=\""
+          "Value": "\"qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:41:23 GMT"
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3580,21 +4495,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9u4y6w28h2"
+          "Value": "mgoehz687i"
         },
         {
           "Name": "label",
-          "Value": "IPCowV3.styles.css"
+          "Value": "img/favicons/favicon.ico"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24="
+          "Value": "sha256-qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk="
         }
       ]
     },
     {
-      "Route": "IPCowV3.9u4y6w28h2.styles.css.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/byll86qz4k-9u4y6w28h2.gz",
+      "Route": "img/favicons/favicon.mgoehz687i.ico.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-mgoehz687i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3603,19 +4518,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "535"
+          "Value": "4658"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "image/x-icon"
         },
         {
           "Name": "ETag",
-          "Value": "\"xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI=\""
+          "Value": "\"swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:41:23 GMT"
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3633,26 +4548,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9u4y6w28h2"
+          "Value": "mgoehz687i"
         },
         {
           "Name": "label",
-          "Value": "IPCowV3.styles.css.gz"
+          "Value": "img/favicons/favicon.ico.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI="
+          "Value": "sha256-swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA="
         }
       ]
     },
     {
-      "Route": "IPCowV3.bundle.scp.css",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/m8fzgnplx1-9u4y6w28h2.gz",
+      "Route": "img/favicons/manifest.json",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/bwykvq1u49-le0kaysxk7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001865671642"
+          "Quality": "0.004524886878"
         }
       ],
       "ResponseHeaders": [
@@ -3662,15 +4577,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "535"
+          "Value": "220"
         },
         {
           "Name": "ETag",
-          "Value": "\"xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI=\""
+          "Value": "\"ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:41:23 GMT"
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3686,23 +4601,23 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "application/json"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24=\""
+          "Value": "W/\"DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24="
+          "Value": "sha256-DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs="
         }
       ]
     },
     {
-      "Route": "IPCowV3.bundle.scp.css",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/projectbundle/IPCowV3.bundle.scp.css",
+      "Route": "img/favicons/manifest.json",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3711,19 +4626,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1076"
+          "Value": "412"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "application/json"
         },
         {
           "Name": "ETag",
-          "Value": "\"/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24=\""
+          "Value": "\"DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:41:23 GMT"
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3733,13 +4648,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24="
+          "Value": "sha256-DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs="
         }
       ]
     },
     {
-      "Route": "IPCowV3.bundle.scp.css.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/m8fzgnplx1-9u4y6w28h2.gz",
+      "Route": "img/favicons/manifest.json.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/bwykvq1u49-le0kaysxk7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3748,19 +4663,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "535"
+          "Value": "220"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "application/json"
         },
         {
           "Name": "ETag",
-          "Value": "\"xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI=\""
+          "Value": "\"ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:41:23 GMT"
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3778,18 +4693,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI="
+          "Value": "sha256-ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE="
         }
       ]
     },
     {
-      "Route": "IPCowV3.styles.css",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/byll86qz4k-9u4y6w28h2.gz",
+      "Route": "img/favicons/manifest.le0kaysxk7.json",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/bwykvq1u49-le0kaysxk7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001865671642"
+          "Quality": "0.004524886878"
         }
       ],
       "ResponseHeaders": [
@@ -3799,19 +4714,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "535"
+          "Value": "220"
         },
         {
           "Name": "ETag",
-          "Value": "\"xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI=\""
+          "Value": "\"ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:41:23 GMT"
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3823,23 +4738,31 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "application/json"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24=\""
+          "Value": "W/\"DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "le0kaysxk7"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/manifest.json"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24="
+          "Value": "sha256-DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs="
         }
       ]
     },
     {
-      "Route": "IPCowV3.styles.css",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/bundle/IPCowV3.styles.css",
+      "Route": "img/favicons/manifest.le0kaysxk7.json",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3848,35 +4771,43 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1076"
+          "Value": "412"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "application/json"
         },
         {
           "Name": "ETag",
-          "Value": "\"/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24=\""
+          "Value": "\"DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:41:23 GMT"
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "le0kaysxk7"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/manifest.json"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-/0zQ2NplPAuqshZs9BINYCXd0VAcGoHgQ2XJoPCVV24="
+          "Value": "sha256-DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs="
         }
       ]
     },
     {
-      "Route": "IPCowV3.styles.css.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/byll86qz4k-9u4y6w28h2.gz",
+      "Route": "img/favicons/manifest.le0kaysxk7.json.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/bwykvq1u49-le0kaysxk7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3885,23 +4816,23 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "535"
+          "Value": "220"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "application/json"
         },
         {
           "Name": "ETag",
-          "Value": "\"xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI=\""
+          "Value": "\"ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:41:23 GMT"
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3914,19 +4845,27 @@
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "le0kaysxk7"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/manifest.json.gz"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-xniq20JwGfzp4lrpU2MjK3r34jgo3HCPse/ZzJebbaI="
+          "Value": "sha256-ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE="
         }
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/2iw6y58oev-xtxxf3hu2r.gz",
+      "Route": "img/favicons/safari-pinned-tab.d8dgtachxr.svg",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/xdiv9tz906-d8dgtachxr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005263157895"
+          "Quality": "0.001739130435"
         }
       ],
       "ResponseHeaders": [
@@ -3936,15 +4875,474 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "574"
         },
         {
           "Name": "ETag",
-          "Value": "\"YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=\""
+          "Value": "\"dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d8dgtachxr"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/safari-pinned-tab.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/safari-pinned-tab.d8dgtachxr.svg",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d8dgtachxr"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/safari-pinned-tab.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/safari-pinned-tab.d8dgtachxr.svg.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/xdiv9tz906-d8dgtachxr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d8dgtachxr"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/safari-pinned-tab.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/safari-pinned-tab.svg",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/xdiv9tz906-d8dgtachxr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001739130435"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "574"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/safari-pinned-tab.svg",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/safari-pinned-tab.svg.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/xdiv9tz906-d8dgtachxr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.493y06b0oq.js",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/mqvuue8adh-493y06b0oq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041692725"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23984"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DKxtpOFRkjSEaPf7hRuWjmLIaLKqWeH4MMNTVQusPtg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:56:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "493y06b0oq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.493y06b0oq.js",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:56:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "493y06b0oq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.493y06b0oq.js.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/mqvuue8adh-493y06b0oq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DKxtpOFRkjSEaPf7hRuWjmLIaLKqWeH4MMNTVQusPtg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:56:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "493y06b0oq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DKxtpOFRkjSEaPf7hRuWjmLIaLKqWeH4MMNTVQusPtg="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/mqvuue8adh-493y06b0oq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041692725"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23984"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DKxtpOFRkjSEaPf7hRuWjmLIaLKqWeH4MMNTVQusPtg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:56:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3964,19 +5362,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw="
         }
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/site.js",
+      "Route": "js/bootstrap.bundle.min.js",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3985,7 +5383,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "80721"
         },
         {
           "Name": "Content-Type",
@@ -3993,11 +5391,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Wed, 08 Jan 2025 20:56:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4007,13 +5405,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw="
         }
       ]
     },
     {
-      "Route": "js/site.js.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/2iw6y58oev-xtxxf3hu2r.gz",
+      "Route": "js/bootstrap.bundle.min.js.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/mqvuue8adh-493y06b0oq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4022,7 +5420,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "23984"
         },
         {
           "Name": "Content-Type",
@@ -4030,11 +5428,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=\""
+          "Value": "\"DKxtpOFRkjSEaPf7hRuWjmLIaLKqWeH4MMNTVQusPtg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Wed, 08 Jan 2025 20:56:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4052,18 +5450,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg="
+          "Value": "sha256-DKxtpOFRkjSEaPf7hRuWjmLIaLKqWeH4MMNTVQusPtg="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/2iw6y58oev-xtxxf3hu2r.gz",
+      "Route": "js/color-modes.f3doc4w353.js",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/0d1x3kgfjf-f3doc4w353.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005263157895"
+          "Quality": "0.001154734411"
         }
       ],
       "ResponseHeaders": [
@@ -4073,15 +5471,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "865"
         },
         {
           "Name": "ETag",
-          "Value": "\"YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=\""
+          "Value": "\"tpeG7Gkf/vmrQ6IJDDbXIXwCcoPc2eskTYZTNn9qtOE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Wed, 08 Jan 2025 20:10:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4101,27 +5499,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"tcvCdMB/ytz8OYwq+347rWirgTMjriZlxB810hq0C+Q=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "f3doc4w353"
         },
         {
           "Name": "label",
-          "Value": "js/site.js"
+          "Value": "js/color-modes.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-tcvCdMB/ytz8OYwq+347rWirgTMjriZlxB810hq0C+Q="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/site.js",
+      "Route": "js/color-modes.f3doc4w353.js",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/color-modes.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4130,7 +5528,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "2595"
         },
         {
           "Name": "Content-Type",
@@ -4138,11 +5536,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"tcvCdMB/ytz8OYwq+347rWirgTMjriZlxB810hq0C+Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Wed, 08 Jan 2025 20:10:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4152,21 +5550,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "f3doc4w353"
         },
         {
           "Name": "label",
-          "Value": "js/site.js"
+          "Value": "js/color-modes.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-tcvCdMB/ytz8OYwq+347rWirgTMjriZlxB810hq0C+Q="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/2iw6y58oev-xtxxf3hu2r.gz",
+      "Route": "js/color-modes.f3doc4w353.js.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/0d1x3kgfjf-f3doc4w353.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4175,7 +5573,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "865"
         },
         {
           "Name": "Content-Type",
@@ -4183,11 +5581,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=\""
+          "Value": "\"tpeG7Gkf/vmrQ6IJDDbXIXwCcoPc2eskTYZTNn9qtOE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Wed, 08 Jan 2025 20:10:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4205,15 +5603,152 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "f3doc4w353"
         },
         {
           "Name": "label",
-          "Value": "js/site.js.gz"
+          "Value": "js/color-modes.js.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg="
+          "Value": "sha256-tpeG7Gkf/vmrQ6IJDDbXIXwCcoPc2eskTYZTNn9qtOE="
+        }
+      ]
+    },
+    {
+      "Route": "js/color-modes.js",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/0d1x3kgfjf-f3doc4w353.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001154734411"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "865"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tpeG7Gkf/vmrQ6IJDDbXIXwCcoPc2eskTYZTNn9qtOE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tcvCdMB/ytz8OYwq+347rWirgTMjriZlxB810hq0C+Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tcvCdMB/ytz8OYwq+347rWirgTMjriZlxB810hq0C+Q="
+        }
+      ]
+    },
+    {
+      "Route": "js/color-modes.js",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/color-modes.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tcvCdMB/ytz8OYwq+347rWirgTMjriZlxB810hq0C+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tcvCdMB/ytz8OYwq+347rWirgTMjriZlxB810hq0C+Q="
+        }
+      ]
+    },
+    {
+      "Route": "js/color-modes.js.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/0d1x3kgfjf-f3doc4w353.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "865"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tpeG7Gkf/vmrQ6IJDDbXIXwCcoPc2eskTYZTNn9qtOE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 20:10:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tpeG7Gkf/vmrQ6IJDDbXIXwCcoPc2eskTYZTNn9qtOE="
         }
       ]
     },

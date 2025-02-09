@@ -1,0 +1,33 @@
+Browser: <b>@ViewData["Browser"]</b>
+Operating System: <b>@ViewData["OperatingSystem"]</b>
+Device: <b>@ViewData["Device"]</b>
+Country: <b>@ViewData["Country"]</b>
+Region: <b>@ViewData["Region"]</b>
+City: <b>@ViewData["City"]</b>
+ISP: <b>@ViewData["ISP"]</b>
+ASN: <b>@ViewData["ASN"]</b>
+Latitude: <b>@ViewData["Latitude"]</b>
+Longitude: <b>@ViewData["Longitude"]</b>
+Timezone: <b>@ViewData["Timezone"]</b>
+Resolution: <b>@ViewData["Resolution"]</b>
+Color Depth: <b>@ViewData["ColorDepth"]</b>
+Browser Language: <b>@ViewData["BrowserLanguage"]</b>
+User Language: <b>@ViewData["UserLanguage"]</b>
+Java Enabled: <b>@ViewData["JavaEnabled"]</b>
+Cookies Enabled: <b>@ViewData["CookiesEnabled"]</b>
+Do Not Track: <b>@ViewData["DoNotTrack"]</b>
+Ad Blocker: <b>@ViewData["AdBlocker"]</b>
+Screen Size: <b>@ViewData["ScreenSize"]</b>
+Screen Width: <b>@ViewData["ScreenWidth"]</b>
+Screen Height: <b>@ViewData["ScreenHeight"]</b>
+Screen Avail Width: <b>@ViewData["ScreenAvailWidth"]</b>
+Screen Avail Height: <b>@ViewData["ScreenAvailHeight"]</b>
+Screen Color Depth: <b>@ViewData["ScreenColorDepth"]</b>
+Screen Pixel Depth: <b>@ViewData["ScreenPixelDepth"]</b>
+Connection Type: <b>@ViewData["ConnectionType"]</b>
+Connection Effective Type: <b>@ViewData["ConnectionEffectiveType"]</b>
+Connection Downlink: <b>@ViewData["ConnectionDownlink"]</b>
+Connection Rtt: <b>@ViewData["ConnectionRtt"]</b>
+Connection Save Data: <b>@ViewData["ConnectionSaveData"]</b>
+Connection Ect: <b>@ViewData["ConnectionEct"]</b>
+Connection Secured: <b>@ViewData["ConnectionSecured"]</b>

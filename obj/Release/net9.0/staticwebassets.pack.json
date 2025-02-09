@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/scopedcss/projectbundle/IPCowV3.bundle.scp.css",
-      "PackagePath": "staticwebassets/IPCowV3.9u4y6w28h2.bundle.scp.css"
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
     },
     {
       "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/site.css",
@@ -13,8 +13,44 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-192x192.png",
+      "PackagePath": "staticwebassets/img/favicons/android-chrome-192x192.png"
+    },
+    {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-512x512.png",
+      "PackagePath": "staticwebassets/img/favicons/android-chrome-512x512.png"
+    },
+    {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/img/favicons/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-16x16.png",
+      "PackagePath": "staticwebassets/img/favicons/favicon-16x16.png"
+    },
+    {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-32x32.png",
+      "PackagePath": "staticwebassets/img/favicons/favicon-32x32.png"
+    },
+    {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.ico",
+      "PackagePath": "staticwebassets/img/favicons/favicon.ico"
+    },
+    {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json",
+      "PackagePath": "staticwebassets/img/favicons/manifest.json"
+    },
+    {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets/img/favicons/safari-pinned-tab.svg"
+    },
+    {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/color-modes.js",
+      "PackagePath": "staticwebassets/js/color-modes.js"
     },
     {
       "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/LICENSE",
