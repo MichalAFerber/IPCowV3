@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fWCqILZSwiTlX5W21B0tkSEY5GfByN4jPNCh90OMIKg=",
+  "Hash": "d2bH4Ho+lfQ52j5MgF3dsFPssd5wFEvRT2XJqvAv/z4=",
   "Source": "IPCowV3",
   "BasePath": "_content/IPCowV3",
   "Mode": "Default",
@@ -479,27 +479,6 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/bwykvq1u49-le0kaysxk7.gz",
-      "SourceId": "IPCowV3",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
-      "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/manifest#[.{fingerprint=le0kaysxk7}]?.json.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "it5w0vg8kw",
-      "Integrity": "ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json"
-    },
-    {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/c3yk13iyhv-6pdc2jztkx.gz",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
@@ -542,6 +521,27 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-9gtr5awx3e.gz",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/favicon#[.{fingerprint=9gtr5awx3e}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ok9xnay4xl",
+      "Integrity": "uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.svg"
+    },
+    {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/csqu800chk-s35ty4nyc5.gz",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
@@ -582,6 +582,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/dyazvkreiq-v7s0r8f81e.gz",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "sitemap#[.{fingerprint=v7s0r8f81e}]?.xml.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/sitemap.xml",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "m1ehau60i8",
+      "Integrity": "prwHQdq//IvrJ58G6v3riJP7yhktcH6MtSu5Xf8kWHs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/sitemap.xml"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/eulzeassd9-r7b168mjqc.gz",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "robots#[.{fingerprint=r7b168mjqc}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/robots.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9oqxikeohr",
+      "Integrity": "SQcA613HIPVwARFpziZprbKEiu5DWMZ8yqv+LsSJ2Rk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/robots.txt"
     },
     {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/evi4pble3q-mlv21k5csn.gz",
@@ -1046,12 +1088,12 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-mgoehz687i.gz",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-l57qgqrzwy.gz",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/favicon#[.{fingerprint=mgoehz687i}]?.ico.gz",
+      "RelativePath": "img/favicons/favicon#[.{fingerprint=l57qgqrzwy}]?.ico.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1060,8 +1102,8 @@
       "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "f1kxp8pf3j",
-      "Integrity": "swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA=",
+      "Fingerprint": "1wfzhxbnrp",
+      "Integrity": "MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.ico"
@@ -1613,27 +1655,6 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/bwykvq1u49-le0kaysxk7.br",
-      "SourceId": "IPCowV3",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/",
-      "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/manifest#[.{fingerprint=le0kaysxk7}]?.json.br",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "br",
-      "Fingerprint": "wa6b60ip2l",
-      "Integrity": "WOWEp0mY+feN5nTq3qKrZDe5dKZZLSVtO5IbXwy7EiY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json"
-    },
-    {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/c3yk13iyhv-6pdc2jztkx.br",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
@@ -1676,6 +1697,27 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-9gtr5awx3e.br",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/favicon#[.{fingerprint=9gtr5awx3e}]?.svg.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "g443wq9dhj",
+      "Integrity": "YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.svg"
+    },
+    {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/csqu800chk-s35ty4nyc5.br",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
@@ -1716,6 +1758,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/dyazvkreiq-v7s0r8f81e.br",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "sitemap#[.{fingerprint=v7s0r8f81e}]?.xml.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/sitemap.xml",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "8oo4d75nc1",
+      "Integrity": "6A4uRc0xfaYCxAuJpQd7NTWzeGuWa80wbvQkdSnGpms=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/sitemap.xml"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/eulzeassd9-r7b168mjqc.br",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "robots#[.{fingerprint=r7b168mjqc}]?.txt.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/robots.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "od84ni6w3n",
+      "Integrity": "bGKBMk65rCRK5E5R40y975emkPeL7wRfpXjZorXBt0Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/robots.txt"
     },
     {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/evi4pble3q-mlv21k5csn.br",
@@ -2180,12 +2264,12 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/ntlm2acpth-mgoehz687i.br",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/ntlm2acpth-l57qgqrzwy.br",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/favicon#[.{fingerprint=mgoehz687i}]?.ico.br",
+      "RelativePath": "img/favicons/favicon#[.{fingerprint=l57qgqrzwy}]?.ico.br",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2194,8 +2278,8 @@
       "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "zd7ecl5ydt",
-      "Integrity": "5+wdDX0AYHkeldckapDO08jOrqPrYGXINBSSZDx8ME8=",
+      "Fingerprint": "lfv5khnx0d",
+      "Integrity": "YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.ico"
@@ -2348,12 +2432,12 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/sbmdj4ckar-61n19gt1b8.br",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/sbmdj4ckar-l57qgqrzwy.br",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "favicon#[.{fingerprint=61n19gt1b8}]?.ico.br",
+      "RelativePath": "favicon#[.{fingerprint=l57qgqrzwy}]?.ico.br",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2362,8 +2446,8 @@
       "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "5bmv0eabqc",
-      "Integrity": "sdq4OozKbzRXncJlEGD27eAyo7pvtW7fFSNznAQnLfE=",
+      "Fingerprint": "lfv5khnx0d",
+      "Integrity": "YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/favicon.ico"
@@ -2495,6 +2579,48 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vfqjsmso72-mvszr1vso4.br",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "ads#[.{fingerprint=mvszr1vso4}]?.txt.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/ads.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "wn2zxwg0p3",
+      "Integrity": "xMaufNx6IOmVGPbmm6wpyJf4905vs11KFVf08CtFg8s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/ads.txt"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-ntmrd3kbap.br",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/site#[.{fingerprint=ntmrd3kbap}]?.webmanifest.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/site.webmanifest",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "uks8j70sty",
+      "Integrity": "rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/site.webmanifest"
+    },
+    {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/x4zezhlh8l-muycvpuwrr.br",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
@@ -2514,27 +2640,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/jquery/dist/jquery.slim.min.js"
-    },
-    {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/xdiv9tz906-d8dgtachxr.br",
-      "SourceId": "IPCowV3",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/",
-      "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/safari-pinned-tab#[.{fingerprint=d8dgtachxr}]?.svg.br",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "br",
-      "Fingerprint": "528pelgrm2",
-      "Integrity": "8wjoYCiKdmvu7nISwmlJJ+ezrkAXp9+8DJ1N5uSIMCY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg"
     },
     {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/yl2i2ur7ox-47otxtyo56.br",
@@ -2621,12 +2726,12 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/sbmdj4ckar-61n19gt1b8.gz",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/sbmdj4ckar-l57qgqrzwy.gz",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "favicon#[.{fingerprint=61n19gt1b8}]?.ico.gz",
+      "RelativePath": "favicon#[.{fingerprint=l57qgqrzwy}]?.ico.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2635,8 +2740,8 @@
       "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jefwejb9ld",
-      "Integrity": "+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=",
+      "Fingerprint": "1wfzhxbnrp",
+      "Integrity": "MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/favicon.ico"
@@ -2768,6 +2873,48 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vfqjsmso72-mvszr1vso4.gz",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "ads#[.{fingerprint=mvszr1vso4}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/ads.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wc7orftgzv",
+      "Integrity": "QKI8CPJqBztWmckHhnChFgRUI42sJpq0yR7VskfiKDM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/ads.txt"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-ntmrd3kbap.gz",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/site#[.{fingerprint=ntmrd3kbap}]?.webmanifest.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/site.webmanifest",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9qhxhj3fvz",
+      "Integrity": "AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/site.webmanifest"
+    },
+    {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/x4zezhlh8l-muycvpuwrr.gz",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
@@ -2789,27 +2936,6 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/jquery/dist/jquery.slim.min.js"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/xdiv9tz906-d8dgtachxr.gz",
-      "SourceId": "IPCowV3",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
-      "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/safari-pinned-tab#[.{fingerprint=d8dgtachxr}]?.svg.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "42ob0vgl4w",
-      "Integrity": "dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg"
-    },
-    {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/yl2i2ur7ox-47otxtyo56.gz",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
@@ -2829,6 +2955,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/ads.txt",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "ads#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mvszr1vso4",
+      "Integrity": "8gsS1uPLhrJeCACoTM6xHSl3F3/1NB3wrKSm46ttXek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/ads.txt"
     },
     {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/bootstrap.min.css",
@@ -2887,53 +3034,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "l57qgqrzwy",
+      "Integrity": "RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
-    },
-    {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-192x192.png",
-      "SourceId": "IPCowV3",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
-      "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/android-chrome-192x192#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ghrynwdjak",
-      "Integrity": "XLkIyqoUaMedHAiv1suc8cNevoF37MhUkpCgle80Eec=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicons/android-chrome-192x192.png"
-    },
-    {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-512x512.png",
-      "SourceId": "IPCowV3",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
-      "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/android-chrome-512x512#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "3m20ef4gk5",
-      "Integrity": "xUjhGRh6B5CIcW/FI9f4ArmPe1XbACfMzOJ30J50jmU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicons/android-chrome-512x512.png"
     },
     {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/apple-touch-icon.png",
@@ -2950,19 +3055,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "sg3wrf8d5a",
-      "Integrity": "dM8WkyJeermxe4p1JNGdKoTxgVRtMqLuy4pTpPFNkuQ=",
+      "Fingerprint": "khre52bdb9",
+      "Integrity": "qN9tY/ABTwlhO4HQI7ErBg1NecyZE8CDQkL4I95eQZM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/favicons/apple-touch-icon.png"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-16x16.png",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-96x96.png",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/favicon-16x16#[.{fingerprint}]?.png",
+      "RelativePath": "img/favicons/favicon-96x96#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2971,32 +3076,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pkk6gfc25b",
-      "Integrity": "V2aPnKq/UBr774xPL0i46MnZ2oeZF8T6OVGniPbE5TY=",
+      "Fingerprint": "7weekelrcl",
+      "Integrity": "GSGDfNt9U3aiT9/RXZVjNohanNhWs/nnyE3PusqwDuc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicons/favicon-16x16.png"
-    },
-    {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-32x32.png",
-      "SourceId": "IPCowV3",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
-      "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/favicon-32x32#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "c6qreg75d0",
-      "Integrity": "RHsS7P1QBMo/+FuD1kzZHebVQ69CBdzfliIhANhm3Fk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicons/favicon-32x32.png"
+      "OriginalItemSpec": "wwwroot/img/favicons/favicon-96x96.png"
     },
     {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.ico",
@@ -3013,19 +3097,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mgoehz687i",
-      "Integrity": "qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk=",
+      "Fingerprint": "l57qgqrzwy",
+      "Integrity": "RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/favicons/favicon.ico"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.svg",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/manifest#[.{fingerprint}]?.json",
+      "RelativePath": "img/favicons/favicon#[.{fingerprint}]?.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3034,19 +3118,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "le0kaysxk7",
-      "Integrity": "DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs=",
+      "Fingerprint": "9gtr5awx3e",
+      "Integrity": "J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicons/manifest.json"
+      "OriginalItemSpec": "wwwroot/img/favicons/favicon.svg"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/site.webmanifest",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/safari-pinned-tab#[.{fingerprint}]?.svg",
+      "RelativePath": "img/favicons/site#[.{fingerprint}]?.webmanifest",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3055,11 +3139,53 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "d8dgtachxr",
-      "Integrity": "A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo=",
+      "Fingerprint": "ntmrd3kbap",
+      "Integrity": "S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicons/safari-pinned-tab.svg"
+      "OriginalItemSpec": "wwwroot/img/favicons/site.webmanifest"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/web-app-manifest-192x192.png",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/web-app-manifest-192x192#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6o62niwzh2",
+      "Integrity": "Rk08HnDJjPRTSyvc787el86dWABHMAJ+o7qjGPlOINw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/favicons/web-app-manifest-192x192.png"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/web-app-manifest-512x512.png",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "img/favicons/web-app-manifest-512x512#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t8vv9rycc7",
+      "Integrity": "7cSP1mzGvhoxX+s9uc+fI2cEGlJbRnHaWZVA5tGdbv4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/favicons/web-app-manifest-512x512.png"
     },
     {
       "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/bootstrap.bundle.min.js",
@@ -4362,9 +4488,565 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/robots.txt",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "robots#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r7b168mjqc",
+      "Integrity": "+Qo8FiDPUkGxoshQeolveXsh7TK0XHfuw/7iJ00dx6Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/robots.txt"
+    },
+    {
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/sitemap.xml",
+      "SourceId": "IPCowV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/",
+      "BasePath": "_content/IPCowV3",
+      "RelativePath": "sitemap#[.{fingerprint}]?.xml",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v7s0r8f81e",
+      "Integrity": "25mGWPb6rlNDsKzZy/CN49jAnhCz3hcW21UzhHgmF4g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/sitemap.xml"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "ads.mvszr1vso4.txt",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vfqjsmso72-mvszr1vso4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.017543859649"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMaufNx6IOmVGPbmm6wpyJf4905vs11KFVf08CtFg8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:46:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8gsS1uPLhrJeCACoTM6xHSl3F3/1NB3wrKSm46ttXek=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mvszr1vso4"
+        },
+        {
+          "Name": "label",
+          "Value": "ads.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8gsS1uPLhrJeCACoTM6xHSl3F3/1NB3wrKSm46ttXek="
+        }
+      ]
+    },
+    {
+      "Route": "ads.mvszr1vso4.txt",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vfqjsmso72-mvszr1vso4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.012658227848"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QKI8CPJqBztWmckHhnChFgRUI42sJpq0yR7VskfiKDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:46:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8gsS1uPLhrJeCACoTM6xHSl3F3/1NB3wrKSm46ttXek=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mvszr1vso4"
+        },
+        {
+          "Name": "label",
+          "Value": "ads.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8gsS1uPLhrJeCACoTM6xHSl3F3/1NB3wrKSm46ttXek="
+        }
+      ]
+    },
+    {
+      "Route": "ads.mvszr1vso4.txt",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/ads.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8gsS1uPLhrJeCACoTM6xHSl3F3/1NB3wrKSm46ttXek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:46:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mvszr1vso4"
+        },
+        {
+          "Name": "label",
+          "Value": "ads.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8gsS1uPLhrJeCACoTM6xHSl3F3/1NB3wrKSm46ttXek="
+        }
+      ]
+    },
+    {
+      "Route": "ads.mvszr1vso4.txt.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vfqjsmso72-mvszr1vso4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMaufNx6IOmVGPbmm6wpyJf4905vs11KFVf08CtFg8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:46:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mvszr1vso4"
+        },
+        {
+          "Name": "label",
+          "Value": "ads.txt.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xMaufNx6IOmVGPbmm6wpyJf4905vs11KFVf08CtFg8s="
+        }
+      ]
+    },
+    {
+      "Route": "ads.mvszr1vso4.txt.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vfqjsmso72-mvszr1vso4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QKI8CPJqBztWmckHhnChFgRUI42sJpq0yR7VskfiKDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:46:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mvszr1vso4"
+        },
+        {
+          "Name": "label",
+          "Value": "ads.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QKI8CPJqBztWmckHhnChFgRUI42sJpq0yR7VskfiKDM="
+        }
+      ]
+    },
+    {
+      "Route": "ads.txt",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vfqjsmso72-mvszr1vso4.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.017543859649"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMaufNx6IOmVGPbmm6wpyJf4905vs11KFVf08CtFg8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:46:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8gsS1uPLhrJeCACoTM6xHSl3F3/1NB3wrKSm46ttXek=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8gsS1uPLhrJeCACoTM6xHSl3F3/1NB3wrKSm46ttXek="
+        }
+      ]
+    },
+    {
+      "Route": "ads.txt",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vfqjsmso72-mvszr1vso4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.012658227848"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QKI8CPJqBztWmckHhnChFgRUI42sJpq0yR7VskfiKDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:46:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8gsS1uPLhrJeCACoTM6xHSl3F3/1NB3wrKSm46ttXek=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8gsS1uPLhrJeCACoTM6xHSl3F3/1NB3wrKSm46ttXek="
+        }
+      ]
+    },
+    {
+      "Route": "ads.txt",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/ads.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8gsS1uPLhrJeCACoTM6xHSl3F3/1NB3wrKSm46ttXek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:46:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8gsS1uPLhrJeCACoTM6xHSl3F3/1NB3wrKSm46ttXek="
+        }
+      ]
+    },
+    {
+      "Route": "ads.txt.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vfqjsmso72-mvszr1vso4.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMaufNx6IOmVGPbmm6wpyJf4905vs11KFVf08CtFg8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:46:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xMaufNx6IOmVGPbmm6wpyJf4905vs11KFVf08CtFg8s="
+        }
+      ]
+    },
+    {
+      "Route": "ads.txt.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vfqjsmso72-mvszr1vso4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QKI8CPJqBztWmckHhnChFgRUI42sJpq0yR7VskfiKDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:46:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QKI8CPJqBztWmckHhnChFgRUI42sJpq0yR7VskfiKDM="
+        }
+      ]
+    },
     {
       "Route": "css/bootstrap.min.46ein0sx1k.css",
       "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/o1rfewhqjq-46ein0sx1k.gz",
@@ -5394,13 +6076,13 @@
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/sbmdj4ckar-61n19gt1b8.br",
+      "Route": "favicon.ico",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/sbmdj4ckar-l57qgqrzwy.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000491883915"
+          "Quality": "0.000138350858"
         }
       ],
       "ResponseHeaders": [
@@ -5410,15 +6092,252 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2032"
+          "Value": "7227"
         },
         {
           "Name": "ETag",
-          "Value": "\"sdq4OozKbzRXncJlEGD27eAyo7pvtW7fFSNznAQnLfE=\""
+          "Value": "\"YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/sbmdj4ckar-l57qgqrzwy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000112384806"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/sbmdj4ckar-l57qgqrzwy.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/sbmdj4ckar-l57qgqrzwy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.l57qgqrzwy.ico",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/sbmdj4ckar-l57qgqrzwy.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000138350858"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7227"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5438,13 +6357,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "W/\"RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "l57qgqrzwy"
         },
         {
           "Name": "label",
@@ -5452,18 +6371,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M="
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/sbmdj4ckar-61n19gt1b8.gz",
+      "Route": "favicon.l57qgqrzwy.ico",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/sbmdj4ckar-l57qgqrzwy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000405022276"
+          "Quality": "0.000112384806"
         }
       ],
       "ResponseHeaders": [
@@ -5473,15 +6392,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "8897"
         },
         {
           "Name": "ETag",
-          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+          "Value": "\"MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5501,13 +6420,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "W/\"RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "l57qgqrzwy"
         },
         {
           "Name": "label",
@@ -5515,12 +6434,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M="
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
+      "Route": "favicon.l57qgqrzwy.ico",
       "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5530,7 +6449,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "15086"
         },
         {
           "Name": "Content-Type",
@@ -5538,11 +6457,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5552,7 +6471,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "l57qgqrzwy"
         },
         {
           "Name": "label",
@@ -5560,13 +6479,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M="
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico.br",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/sbmdj4ckar-61n19gt1b8.br",
+      "Route": "favicon.l57qgqrzwy.ico.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/sbmdj4ckar-l57qgqrzwy.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5575,7 +6494,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2032"
+          "Value": "7227"
         },
         {
           "Name": "Content-Type",
@@ -5583,11 +6502,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sdq4OozKbzRXncJlEGD27eAyo7pvtW7fFSNznAQnLfE=\""
+          "Value": "\"YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5605,7 +6524,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "l57qgqrzwy"
         },
         {
           "Name": "label",
@@ -5613,13 +6532,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-sdq4OozKbzRXncJlEGD27eAyo7pvtW7fFSNznAQnLfE="
+          "Value": "sha256-YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w="
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/sbmdj4ckar-61n19gt1b8.gz",
+      "Route": "favicon.l57qgqrzwy.ico.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/sbmdj4ckar-l57qgqrzwy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5628,7 +6547,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "8897"
         },
         {
           "Name": "Content-Type",
@@ -5636,11 +6555,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+          "Value": "\"MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5658,7 +6577,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "l57qgqrzwy"
         },
         {
           "Name": "label",
@@ -5666,123 +6585,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+          "Value": "sha256-MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc="
         }
       ]
     },
     {
-      "Route": "favicon.ico",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/sbmdj4ckar-61n19gt1b8.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000491883915"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2032"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sdq4OozKbzRXncJlEGD27eAyo7pvtW7fFSNznAQnLfE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.ico",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/sbmdj4ckar-61n19gt1b8.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000405022276"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2468"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.ico",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/favicon.ico",
+      "Route": "img/favicons/apple-touch-icon.khre52bdb9.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/apple-touch-icon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5791,134 +6600,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.ico.br",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/sbmdj4ckar-61n19gt1b8.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2032"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sdq4OozKbzRXncJlEGD27eAyo7pvtW7fFSNznAQnLfE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-sdq4OozKbzRXncJlEGD27eAyo7pvtW7fFSNznAQnLfE="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.ico.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/sbmdj4ckar-61n19gt1b8.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2468"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 10:37:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/android-chrome-192x192.ghrynwdjak.png",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-192x192.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8364"
+          "Value": "51399"
         },
         {
           "Name": "Content-Type",
@@ -5926,11 +6608,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XLkIyqoUaMedHAiv1suc8cNevoF37MhUkpCgle80Eec=\""
+          "Value": "\"qN9tY/ABTwlhO4HQI7ErBg1NecyZE8CDQkL4I95eQZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:10:01 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5940,134 +6622,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ghrynwdjak"
+          "Value": "khre52bdb9"
         },
         {
           "Name": "label",
-          "Value": "img/favicons/android-chrome-192x192.png"
+          "Value": "img/favicons/apple-touch-icon.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XLkIyqoUaMedHAiv1suc8cNevoF37MhUkpCgle80Eec="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/android-chrome-192x192.png",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-192x192.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8364"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XLkIyqoUaMedHAiv1suc8cNevoF37MhUkpCgle80Eec=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:10:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XLkIyqoUaMedHAiv1suc8cNevoF37MhUkpCgle80Eec="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/android-chrome-512x512.3m20ef4gk5.png",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-512x512.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23832"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xUjhGRh6B5CIcW/FI9f4ArmPe1XbACfMzOJ30J50jmU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:10:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3m20ef4gk5"
-        },
-        {
-          "Name": "label",
-          "Value": "img/favicons/android-chrome-512x512.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xUjhGRh6B5CIcW/FI9f4ArmPe1XbACfMzOJ30J50jmU="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/android-chrome-512x512.png",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-512x512.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23832"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xUjhGRh6B5CIcW/FI9f4ArmPe1XbACfMzOJ30J50jmU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:10:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xUjhGRh6B5CIcW/FI9f4ArmPe1XbACfMzOJ30J50jmU="
+          "Value": "sha256-qN9tY/ABTwlhO4HQI7ErBg1NecyZE8CDQkL4I95eQZM="
         }
       ]
     },
@@ -6082,7 +6645,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7488"
+          "Value": "51399"
         },
         {
           "Name": "Content-Type",
@@ -6090,11 +6653,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dM8WkyJeermxe4p1JNGdKoTxgVRtMqLuy4pTpPFNkuQ=\""
+          "Value": "\"qN9tY/ABTwlhO4HQI7ErBg1NecyZE8CDQkL4I95eQZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6104,13 +6667,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dM8WkyJeermxe4p1JNGdKoTxgVRtMqLuy4pTpPFNkuQ="
+          "Value": "sha256-qN9tY/ABTwlhO4HQI7ErBg1NecyZE8CDQkL4I95eQZM="
         }
       ]
     },
     {
-      "Route": "img/favicons/apple-touch-icon.sg3wrf8d5a.png",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/apple-touch-icon.png",
+      "Route": "img/favicons/favicon-96x96.7weekelrcl.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-96x96.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6119,7 +6682,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7488"
+          "Value": "16981"
         },
         {
           "Name": "Content-Type",
@@ -6127,11 +6690,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dM8WkyJeermxe4p1JNGdKoTxgVRtMqLuy4pTpPFNkuQ=\""
+          "Value": "\"GSGDfNt9U3aiT9/RXZVjNohanNhWs/nnyE3PusqwDuc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6141,21 +6704,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sg3wrf8d5a"
+          "Value": "7weekelrcl"
         },
         {
           "Name": "label",
-          "Value": "img/favicons/apple-touch-icon.png"
+          "Value": "img/favicons/favicon-96x96.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dM8WkyJeermxe4p1JNGdKoTxgVRtMqLuy4pTpPFNkuQ="
+          "Value": "sha256-GSGDfNt9U3aiT9/RXZVjNohanNhWs/nnyE3PusqwDuc="
         }
       ]
     },
     {
-      "Route": "img/favicons/favicon-16x16.pkk6gfc25b.png",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-16x16.png",
+      "Route": "img/favicons/favicon-96x96.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-96x96.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6164,7 +6727,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "525"
+          "Value": "16981"
         },
         {
           "Name": "Content-Type",
@@ -6172,56 +6735,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V2aPnKq/UBr774xPL0i46MnZ2oeZF8T6OVGniPbE5TY=\""
+          "Value": "\"GSGDfNt9U3aiT9/RXZVjNohanNhWs/nnyE3PusqwDuc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pkk6gfc25b"
-        },
-        {
-          "Name": "label",
-          "Value": "img/favicons/favicon-16x16.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-V2aPnKq/UBr774xPL0i46MnZ2oeZF8T6OVGniPbE5TY="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/favicon-16x16.png",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-16x16.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "525"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"V2aPnKq/UBr774xPL0i46MnZ2oeZF8T6OVGniPbE5TY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6231,13 +6749,139 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V2aPnKq/UBr774xPL0i46MnZ2oeZF8T6OVGniPbE5TY="
+          "Value": "sha256-GSGDfNt9U3aiT9/RXZVjNohanNhWs/nnyE3PusqwDuc="
         }
       ]
     },
     {
-      "Route": "img/favicons/favicon-32x32.c6qreg75d0.png",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-32x32.png",
+      "Route": "img/favicons/favicon.9gtr5awx3e.svg",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-9gtr5awx3e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000000384435"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2601216"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9gtr5awx3e"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/favicon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/favicon.9gtr5awx3e.svg",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-9gtr5awx3e.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000000386135"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2589770"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9gtr5awx3e"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/favicon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/favicon.9gtr5awx3e.svg",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6246,19 +6890,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1152"
+          "Value": "3458046"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/svg+xml"
         },
         {
           "Name": "ETag",
-          "Value": "\"RHsS7P1QBMo/+FuD1kzZHebVQ69CBdzfliIhANhm3Fk=\""
+          "Value": "\"J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6268,21 +6912,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c6qreg75d0"
+          "Value": "9gtr5awx3e"
         },
         {
           "Name": "label",
-          "Value": "img/favicons/favicon-32x32.png"
+          "Value": "img/favicons/favicon.svg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RHsS7P1QBMo/+FuD1kzZHebVQ69CBdzfliIhANhm3Fk="
+          "Value": "sha256-J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc="
         }
       ]
     },
     {
-      "Route": "img/favicons/favicon-32x32.png",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-32x32.png",
+      "Route": "img/favicons/favicon.9gtr5awx3e.svg.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-9gtr5awx3e.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6291,40 +6935,109 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1152"
+          "Value": "2589770"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/svg+xml"
         },
         {
           "Name": "ETag",
-          "Value": "\"RHsS7P1QBMo/+FuD1kzZHebVQ69CBdzfliIhANhm3Fk=\""
+          "Value": "\"YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "9gtr5awx3e"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/favicon.svg.br"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-RHsS7P1QBMo/+FuD1kzZHebVQ69CBdzfliIhANhm3Fk="
+          "Value": "sha256-YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/favicon.9gtr5awx3e.svg.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-9gtr5awx3e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2601216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9gtr5awx3e"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/favicon.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg="
         }
       ]
     },
     {
       "Route": "img/favicons/favicon.ico",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-mgoehz687i.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-l57qgqrzwy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000214638334"
+          "Quality": "0.000112384806"
         }
       ],
       "ResponseHeaders": [
@@ -6334,15 +7047,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4658"
+          "Value": "8897"
         },
         {
           "Name": "ETag",
-          "Value": "\"swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA=\""
+          "Value": "\"MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6362,24 +7075,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk=\""
+          "Value": "W/\"RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk="
+          "Value": "sha256-RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M="
         }
       ]
     },
     {
       "Route": "img/favicons/favicon.ico",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/ntlm2acpth-mgoehz687i.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/ntlm2acpth-l57qgqrzwy.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000283205891"
+          "Quality": "0.000138350858"
         }
       ],
       "ResponseHeaders": [
@@ -6389,15 +7102,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3530"
+          "Value": "7227"
         },
         {
           "Name": "ETag",
-          "Value": "\"5+wdDX0AYHkeldckapDO08jOrqPrYGXINBSSZDx8ME8=\""
+          "Value": "\"YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6417,13 +7130,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk=\""
+          "Value": "W/\"RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk="
+          "Value": "sha256-RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M="
         }
       ]
     },
@@ -6446,11 +7159,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk=\""
+          "Value": "\"RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6460,13 +7173,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk="
+          "Value": "sha256-RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M="
         }
       ]
     },
     {
       "Route": "img/favicons/favicon.ico.br",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/ntlm2acpth-mgoehz687i.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/ntlm2acpth-l57qgqrzwy.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6475,7 +7188,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3530"
+          "Value": "7227"
         },
         {
           "Name": "Content-Type",
@@ -6483,11 +7196,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5+wdDX0AYHkeldckapDO08jOrqPrYGXINBSSZDx8ME8=\""
+          "Value": "\"YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6505,13 +7218,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5+wdDX0AYHkeldckapDO08jOrqPrYGXINBSSZDx8ME8="
+          "Value": "sha256-YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w="
         }
       ]
     },
     {
       "Route": "img/favicons/favicon.ico.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-mgoehz687i.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-l57qgqrzwy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6520,7 +7233,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4658"
+          "Value": "8897"
         },
         {
           "Name": "Content-Type",
@@ -6528,11 +7241,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA=\""
+          "Value": "\"MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6550,18 +7263,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA="
+          "Value": "sha256-MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc="
         }
       ]
     },
     {
-      "Route": "img/favicons/favicon.mgoehz687i.ico",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-mgoehz687i.gz",
+      "Route": "img/favicons/favicon.l57qgqrzwy.ico",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-l57qgqrzwy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000214638334"
+          "Quality": "0.000112384806"
         }
       ],
       "ResponseHeaders": [
@@ -6571,15 +7284,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4658"
+          "Value": "8897"
         },
         {
           "Name": "ETag",
-          "Value": "\"swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA=\""
+          "Value": "\"MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6599,13 +7312,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk=\""
+          "Value": "W/\"RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgoehz687i"
+          "Value": "l57qgqrzwy"
         },
         {
           "Name": "label",
@@ -6613,18 +7326,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk="
+          "Value": "sha256-RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M="
         }
       ]
     },
     {
-      "Route": "img/favicons/favicon.mgoehz687i.ico",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/ntlm2acpth-mgoehz687i.br",
+      "Route": "img/favicons/favicon.l57qgqrzwy.ico",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/ntlm2acpth-l57qgqrzwy.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000283205891"
+          "Quality": "0.000138350858"
         }
       ],
       "ResponseHeaders": [
@@ -6634,15 +7347,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3530"
+          "Value": "7227"
         },
         {
           "Name": "ETag",
-          "Value": "\"5+wdDX0AYHkeldckapDO08jOrqPrYGXINBSSZDx8ME8=\""
+          "Value": "\"YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6662,13 +7375,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk=\""
+          "Value": "W/\"RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgoehz687i"
+          "Value": "l57qgqrzwy"
         },
         {
           "Name": "label",
@@ -6676,12 +7389,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk="
+          "Value": "sha256-RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M="
         }
       ]
     },
     {
-      "Route": "img/favicons/favicon.mgoehz687i.ico",
+      "Route": "img/favicons/favicon.l57qgqrzwy.ico",
       "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6699,11 +7412,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk=\""
+          "Value": "\"RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6713,7 +7426,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgoehz687i"
+          "Value": "l57qgqrzwy"
         },
         {
           "Name": "label",
@@ -6721,13 +7434,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qg/ypKPTHS6yt9/C2oO1GOb/SVXzdbTHBX8SOI2vDBk="
+          "Value": "sha256-RzGthYvfgPy3TkIlABbk+9L/1vu5kz6apyleJp64w6M="
         }
       ]
     },
     {
-      "Route": "img/favicons/favicon.mgoehz687i.ico.br",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/ntlm2acpth-mgoehz687i.br",
+      "Route": "img/favicons/favicon.l57qgqrzwy.ico.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/ntlm2acpth-l57qgqrzwy.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6736,7 +7449,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3530"
+          "Value": "7227"
         },
         {
           "Name": "Content-Type",
@@ -6744,11 +7457,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5+wdDX0AYHkeldckapDO08jOrqPrYGXINBSSZDx8ME8=\""
+          "Value": "\"YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6766,7 +7479,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgoehz687i"
+          "Value": "l57qgqrzwy"
         },
         {
           "Name": "label",
@@ -6774,13 +7487,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5+wdDX0AYHkeldckapDO08jOrqPrYGXINBSSZDx8ME8="
+          "Value": "sha256-YVZ+aE2ciqUC4rnZAJLfslCKTy6hGbTW/6PdYMvIK+w="
         }
       ]
     },
     {
-      "Route": "img/favicons/favicon.mgoehz687i.ico.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-mgoehz687i.gz",
+      "Route": "img/favicons/favicon.l57qgqrzwy.ico.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/ntlm2acpth-l57qgqrzwy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6789,7 +7502,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4658"
+          "Value": "8897"
         },
         {
           "Name": "Content-Type",
@@ -6797,11 +7510,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA=\""
+          "Value": "\"MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6819,7 +7532,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgoehz687i"
+          "Value": "l57qgqrzwy"
         },
         {
           "Name": "label",
@@ -6827,18 +7540,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-swz7x9HDjY19a4or6jRtIuqdSqt2MRTsixc4f/ZukTA="
+          "Value": "sha256-MYC45GSqcg5k0+6KB7p9gqjKSqcppD7RLShzq3CnAyc="
         }
       ]
     },
     {
-      "Route": "img/favicons/manifest.json",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/bwykvq1u49-le0kaysxk7.gz",
+      "Route": "img/favicons/favicon.svg",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-9gtr5awx3e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004524886878"
+          "Quality": "0.000000384435"
         }
       ],
       "ResponseHeaders": [
@@ -6848,15 +7561,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "220"
+          "Value": "2601216"
         },
         {
           "Name": "ETag",
-          "Value": "\"ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE=\""
+          "Value": "\"uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6872,28 +7585,28 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/json"
+          "Value": "image/svg+xml"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs=\""
+          "Value": "W/\"J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs="
+          "Value": "sha256-J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc="
         }
       ]
     },
     {
-      "Route": "img/favicons/manifest.json",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/bwykvq1u49-le0kaysxk7.br",
+      "Route": "img/favicons/favicon.svg",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-9gtr5awx3e.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.005524861878"
+          "Quality": "0.000000386135"
         }
       ],
       "ResponseHeaders": [
@@ -6903,751 +7616,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "180"
+          "Value": "2589770"
         },
         {
           "Name": "ETag",
-          "Value": "\"WOWEp0mY+feN5nTq3qKrZDe5dKZZLSVtO5IbXwy7EiY=\""
+          "Value": "\"YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/manifest.json",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "412"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/manifest.json.br",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/bwykvq1u49-le0kaysxk7.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "180"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WOWEp0mY+feN5nTq3qKrZDe5dKZZLSVtO5IbXwy7EiY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WOWEp0mY+feN5nTq3qKrZDe5dKZZLSVtO5IbXwy7EiY="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/manifest.json.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/bwykvq1u49-le0kaysxk7.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "220"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/manifest.le0kaysxk7.json",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/bwykvq1u49-le0kaysxk7.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.004524886878"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "220"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "le0kaysxk7"
-        },
-        {
-          "Name": "label",
-          "Value": "img/favicons/manifest.json"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/manifest.le0kaysxk7.json",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/bwykvq1u49-le0kaysxk7.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.005524861878"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "180"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WOWEp0mY+feN5nTq3qKrZDe5dKZZLSVtO5IbXwy7EiY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "le0kaysxk7"
-        },
-        {
-          "Name": "label",
-          "Value": "img/favicons/manifest.json"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/manifest.le0kaysxk7.json",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "412"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "le0kaysxk7"
-        },
-        {
-          "Name": "label",
-          "Value": "img/favicons/manifest.json"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DVGU1ECV0BZRWRbKNNP1w/xiTFECd2MgodjW9LeLVzs="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/manifest.le0kaysxk7.json.br",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/bwykvq1u49-le0kaysxk7.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "180"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WOWEp0mY+feN5nTq3qKrZDe5dKZZLSVtO5IbXwy7EiY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "le0kaysxk7"
-        },
-        {
-          "Name": "label",
-          "Value": "img/favicons/manifest.json.br"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WOWEp0mY+feN5nTq3qKrZDe5dKZZLSVtO5IbXwy7EiY="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/manifest.le0kaysxk7.json.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/bwykvq1u49-le0kaysxk7.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "220"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "le0kaysxk7"
-        },
-        {
-          "Name": "label",
-          "Value": "img/favicons/manifest.json.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ij4IaEcUJszEZxFREuxDoelLoRGtKF6qWRM7KFq8wxE="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/safari-pinned-tab.d8dgtachxr.svg",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/xdiv9tz906-d8dgtachxr.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.001937984496"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "515"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8wjoYCiKdmvu7nISwmlJJ+ezrkAXp9+8DJ1N5uSIMCY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d8dgtachxr"
-        },
-        {
-          "Name": "label",
-          "Value": "img/favicons/safari-pinned-tab.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/safari-pinned-tab.d8dgtachxr.svg",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/xdiv9tz906-d8dgtachxr.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001739130435"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "574"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d8dgtachxr"
-        },
-        {
-          "Name": "label",
-          "Value": "img/favicons/safari-pinned-tab.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/safari-pinned-tab.d8dgtachxr.svg",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1025"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d8dgtachxr"
-        },
-        {
-          "Name": "label",
-          "Value": "img/favicons/safari-pinned-tab.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/safari-pinned-tab.d8dgtachxr.svg.br",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/xdiv9tz906-d8dgtachxr.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "515"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8wjoYCiKdmvu7nISwmlJJ+ezrkAXp9+8DJ1N5uSIMCY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d8dgtachxr"
-        },
-        {
-          "Name": "label",
-          "Value": "img/favicons/safari-pinned-tab.svg.br"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8wjoYCiKdmvu7nISwmlJJ+ezrkAXp9+8DJ1N5uSIMCY="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/safari-pinned-tab.d8dgtachxr.svg.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/xdiv9tz906-d8dgtachxr.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "574"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d8dgtachxr"
-        },
-        {
-          "Name": "label",
-          "Value": "img/favicons/safari-pinned-tab.svg.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/safari-pinned-tab.svg",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/xdiv9tz906-d8dgtachxr.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.001937984496"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "515"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8wjoYCiKdmvu7nISwmlJJ+ezrkAXp9+8DJ1N5uSIMCY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7667,74 +7644,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo=\""
+          "Value": "W/\"J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo="
+          "Value": "sha256-J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc="
         }
       ]
     },
     {
-      "Route": "img/favicons/safari-pinned-tab.svg",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/xdiv9tz906-d8dgtachxr.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001739130435"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "574"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo="
-        }
-      ]
-    },
-    {
-      "Route": "img/favicons/safari-pinned-tab.svg",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg",
+      "Route": "img/favicons/favicon.svg",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7743,7 +7665,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1025"
+          "Value": "3458046"
         },
         {
           "Name": "Content-Type",
@@ -7751,11 +7673,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo=\""
+          "Value": "\"J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7765,13 +7687,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A7Ted9sPdB/0bvw06pUKlgsWo8TP8ddHKHiaYONbNNo="
+          "Value": "sha256-J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc="
         }
       ]
     },
     {
-      "Route": "img/favicons/safari-pinned-tab.svg.br",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/xdiv9tz906-d8dgtachxr.br",
+      "Route": "img/favicons/favicon.svg.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-9gtr5awx3e.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7780,7 +7702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "515"
+          "Value": "2589770"
         },
         {
           "Name": "Content-Type",
@@ -7788,11 +7710,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8wjoYCiKdmvu7nISwmlJJ+ezrkAXp9+8DJ1N5uSIMCY=\""
+          "Value": "\"YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7810,13 +7732,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8wjoYCiKdmvu7nISwmlJJ+ezrkAXp9+8DJ1N5uSIMCY="
+          "Value": "sha256-YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I="
         }
       ]
     },
     {
-      "Route": "img/favicons/safari-pinned-tab.svg.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/xdiv9tz906-d8dgtachxr.gz",
+      "Route": "img/favicons/favicon.svg.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-9gtr5awx3e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7825,7 +7747,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "574"
+          "Value": "2601216"
         },
         {
           "Name": "Content-Type",
@@ -7833,11 +7755,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ=\""
+          "Value": "\"uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 20:54:55 GMT"
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7855,7 +7777,685 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dJWtRUjbFj3N7i3LOawxJ7GFYY86b3zNb3fL1LyRSFQ="
+          "Value": "sha256-uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/site.ntmrd3kbap.webmanifest",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-ntmrd3kbap.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.005128205128"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ntmrd3kbap"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/site.webmanifest"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/site.ntmrd3kbap.webmanifest",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-ntmrd3kbap.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004065040650"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "245"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ntmrd3kbap"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/site.webmanifest"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/site.ntmrd3kbap.webmanifest",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/site.webmanifest",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "486"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ntmrd3kbap"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/site.webmanifest"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/site.ntmrd3kbap.webmanifest.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-ntmrd3kbap.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ntmrd3kbap"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/site.webmanifest.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/site.ntmrd3kbap.webmanifest.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-ntmrd3kbap.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "245"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ntmrd3kbap"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/site.webmanifest.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/site.webmanifest",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-ntmrd3kbap.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.005128205128"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/site.webmanifest",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-ntmrd3kbap.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004065040650"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "245"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/site.webmanifest",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/site.webmanifest",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "486"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/site.webmanifest.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-ntmrd3kbap.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/site.webmanifest.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-ntmrd3kbap.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "245"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/web-app-manifest-192x192.6o62niwzh2.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/web-app-manifest-192x192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rk08HnDJjPRTSyvc787el86dWABHMAJ+o7qjGPlOINw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6o62niwzh2"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/web-app-manifest-192x192.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rk08HnDJjPRTSyvc787el86dWABHMAJ+o7qjGPlOINw="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/web-app-manifest-192x192.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/web-app-manifest-192x192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rk08HnDJjPRTSyvc787el86dWABHMAJ+o7qjGPlOINw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rk08HnDJjPRTSyvc787el86dWABHMAJ+o7qjGPlOINw="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/web-app-manifest-512x512.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/web-app-manifest-512x512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7cSP1mzGvhoxX+s9uc+fI2cEGlJbRnHaWZVA5tGdbv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7cSP1mzGvhoxX+s9uc+fI2cEGlJbRnHaWZVA5tGdbv4="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicons/web-app-manifest-512x512.t8vv9rycc7.png",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/web-app-manifest-512x512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "412298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7cSP1mzGvhoxX+s9uc+fI2cEGlJbRnHaWZVA5tGdbv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t8vv9rycc7"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicons/web-app-manifest-512x512.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7cSP1mzGvhoxX+s9uc+fI2cEGlJbRnHaWZVA5tGdbv4="
         }
       ]
     },
@@ -39292,6 +39892,1034 @@
         {
           "Name": "integrity",
           "Value": "sha256-F1wMlgb/juW08DFUssW6Pm9EBKfjXXRiSK0F5FgXxJU="
+        }
+      ]
+    },
+    {
+      "Route": "robots.r7b168mjqc.txt",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/eulzeassd9-r7b168mjqc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.012658227848"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SQcA613HIPVwARFpziZprbKEiu5DWMZ8yqv+LsSJ2Rk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:47:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+Qo8FiDPUkGxoshQeolveXsh7TK0XHfuw/7iJ00dx6Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r7b168mjqc"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Qo8FiDPUkGxoshQeolveXsh7TK0XHfuw/7iJ00dx6Q="
+        }
+      ]
+    },
+    {
+      "Route": "robots.r7b168mjqc.txt",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/eulzeassd9-r7b168mjqc.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.014925373134"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bGKBMk65rCRK5E5R40y975emkPeL7wRfpXjZorXBt0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:47:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+Qo8FiDPUkGxoshQeolveXsh7TK0XHfuw/7iJ00dx6Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r7b168mjqc"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Qo8FiDPUkGxoshQeolveXsh7TK0XHfuw/7iJ00dx6Q="
+        }
+      ]
+    },
+    {
+      "Route": "robots.r7b168mjqc.txt",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/robots.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Qo8FiDPUkGxoshQeolveXsh7TK0XHfuw/7iJ00dx6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:47:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r7b168mjqc"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Qo8FiDPUkGxoshQeolveXsh7TK0XHfuw/7iJ00dx6Q="
+        }
+      ]
+    },
+    {
+      "Route": "robots.r7b168mjqc.txt.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/eulzeassd9-r7b168mjqc.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bGKBMk65rCRK5E5R40y975emkPeL7wRfpXjZorXBt0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:47:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r7b168mjqc"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bGKBMk65rCRK5E5R40y975emkPeL7wRfpXjZorXBt0Y="
+        }
+      ]
+    },
+    {
+      "Route": "robots.r7b168mjqc.txt.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/eulzeassd9-r7b168mjqc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SQcA613HIPVwARFpziZprbKEiu5DWMZ8yqv+LsSJ2Rk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:47:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r7b168mjqc"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SQcA613HIPVwARFpziZprbKEiu5DWMZ8yqv+LsSJ2Rk="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/eulzeassd9-r7b168mjqc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.012658227848"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SQcA613HIPVwARFpziZprbKEiu5DWMZ8yqv+LsSJ2Rk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:47:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+Qo8FiDPUkGxoshQeolveXsh7TK0XHfuw/7iJ00dx6Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Qo8FiDPUkGxoshQeolveXsh7TK0XHfuw/7iJ00dx6Q="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/eulzeassd9-r7b168mjqc.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.014925373134"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bGKBMk65rCRK5E5R40y975emkPeL7wRfpXjZorXBt0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:47:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+Qo8FiDPUkGxoshQeolveXsh7TK0XHfuw/7iJ00dx6Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Qo8FiDPUkGxoshQeolveXsh7TK0XHfuw/7iJ00dx6Q="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/robots.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Qo8FiDPUkGxoshQeolveXsh7TK0XHfuw/7iJ00dx6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:47:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Qo8FiDPUkGxoshQeolveXsh7TK0XHfuw/7iJ00dx6Q="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/eulzeassd9-r7b168mjqc.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bGKBMk65rCRK5E5R40y975emkPeL7wRfpXjZorXBt0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:47:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bGKBMk65rCRK5E5R40y975emkPeL7wRfpXjZorXBt0Y="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/eulzeassd9-r7b168mjqc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SQcA613HIPVwARFpziZprbKEiu5DWMZ8yqv+LsSJ2Rk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:47:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SQcA613HIPVwARFpziZprbKEiu5DWMZ8yqv+LsSJ2Rk="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.v7s0r8f81e.xml",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/dyazvkreiq-v7s0r8f81e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002617801047"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"prwHQdq//IvrJ58G6v3riJP7yhktcH6MtSu5Xf8kWHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"25mGWPb6rlNDsKzZy/CN49jAnhCz3hcW21UzhHgmF4g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7s0r8f81e"
+        },
+        {
+          "Name": "label",
+          "Value": "sitemap.xml"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-25mGWPb6rlNDsKzZy/CN49jAnhCz3hcW21UzhHgmF4g="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.v7s0r8f81e.xml",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/dyazvkreiq-v7s0r8f81e.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003067484663"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "325"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6A4uRc0xfaYCxAuJpQd7NTWzeGuWa80wbvQkdSnGpms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"25mGWPb6rlNDsKzZy/CN49jAnhCz3hcW21UzhHgmF4g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7s0r8f81e"
+        },
+        {
+          "Name": "label",
+          "Value": "sitemap.xml"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-25mGWPb6rlNDsKzZy/CN49jAnhCz3hcW21UzhHgmF4g="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.v7s0r8f81e.xml",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/sitemap.xml",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"25mGWPb6rlNDsKzZy/CN49jAnhCz3hcW21UzhHgmF4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7s0r8f81e"
+        },
+        {
+          "Name": "label",
+          "Value": "sitemap.xml"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-25mGWPb6rlNDsKzZy/CN49jAnhCz3hcW21UzhHgmF4g="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.v7s0r8f81e.xml.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/dyazvkreiq-v7s0r8f81e.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6A4uRc0xfaYCxAuJpQd7NTWzeGuWa80wbvQkdSnGpms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7s0r8f81e"
+        },
+        {
+          "Name": "label",
+          "Value": "sitemap.xml.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6A4uRc0xfaYCxAuJpQd7NTWzeGuWa80wbvQkdSnGpms="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.v7s0r8f81e.xml.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/dyazvkreiq-v7s0r8f81e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"prwHQdq//IvrJ58G6v3riJP7yhktcH6MtSu5Xf8kWHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7s0r8f81e"
+        },
+        {
+          "Name": "label",
+          "Value": "sitemap.xml.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-prwHQdq//IvrJ58G6v3riJP7yhktcH6MtSu5Xf8kWHs="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.xml",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/dyazvkreiq-v7s0r8f81e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002617801047"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"prwHQdq//IvrJ58G6v3riJP7yhktcH6MtSu5Xf8kWHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"25mGWPb6rlNDsKzZy/CN49jAnhCz3hcW21UzhHgmF4g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-25mGWPb6rlNDsKzZy/CN49jAnhCz3hcW21UzhHgmF4g="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.xml",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/dyazvkreiq-v7s0r8f81e.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.003067484663"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "325"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6A4uRc0xfaYCxAuJpQd7NTWzeGuWa80wbvQkdSnGpms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"25mGWPb6rlNDsKzZy/CN49jAnhCz3hcW21UzhHgmF4g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-25mGWPb6rlNDsKzZy/CN49jAnhCz3hcW21UzhHgmF4g="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.xml",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/sitemap.xml",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"25mGWPb6rlNDsKzZy/CN49jAnhCz3hcW21UzhHgmF4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-25mGWPb6rlNDsKzZy/CN49jAnhCz3hcW21UzhHgmF4g="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.xml.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/dyazvkreiq-v7s0r8f81e.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6A4uRc0xfaYCxAuJpQd7NTWzeGuWa80wbvQkdSnGpms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6A4uRc0xfaYCxAuJpQd7NTWzeGuWa80wbvQkdSnGpms="
+        }
+      ]
+    },
+    {
+      "Route": "sitemap.xml.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/dyazvkreiq-v7s0r8f81e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"prwHQdq//IvrJ58G6v3riJP7yhktcH6MtSu5Xf8kWHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 13:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-prwHQdq//IvrJ58G6v3riJP7yhktcH6MtSu5Xf8kWHs="
         }
       ]
     }

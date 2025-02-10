@@ -54,7 +54,6 @@
 /Users/michal/Documents/GitHub/IPCowV3/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/michal/Documents/GitHub/IPCowV3/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/scopedcss/bundle/IPCowV3.styles.css
-/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/sbmdj4ckar-61n19gt1b8.gz
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/4k77wnxf8m-bqjiyaj88i.gz
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/uuzq18nssq-c2jlpeoesf.gz
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/ftwkai4sry-erw9l3u2r3.gz
@@ -131,9 +130,6 @@
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/ref/IPCowV3.dll
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/0d1x3kgfjf-f3doc4w353.gz
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/o1rfewhqjq-46ein0sx1k.gz
-/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/ntlm2acpth-mgoehz687i.gz
-/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/bwykvq1u49-le0kaysxk7.gz
-/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/xdiv9tz906-d8dgtachxr.gz
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/mqvuue8adh-493y06b0oq.gz
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/hcqjj9h2xu-n2v03umt6j.gz
 /Users/michal/Documents/GitHub/IPCowV3/bin/Debug/net9.0/Newtonsoft.Json.dll
@@ -141,3 +137,10 @@
 /Users/michal/Documents/GitHub/IPCowV3/bin/Debug/net9.0/publish/package.json
 /Users/michal/Documents/GitHub/IPCowV3/bin/Debug/net9.0/publish/wwwroot/img/favicons/manifest.json
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/IPCowV3.sourcelink.json
+/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/vfqjsmso72-mvszr1vso4.gz
+/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/sbmdj4ckar-l57qgqrzwy.gz
+/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/ntlm2acpth-l57qgqrzwy.gz
+/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/cobacs7xp0-9gtr5awx3e.gz
+/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/vxokq6ii3n-ntmrd3kbap.gz
+/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/eulzeassd9-r7b168mjqc.gz
+/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/dyazvkreiq-v7s0r8f81e.gz

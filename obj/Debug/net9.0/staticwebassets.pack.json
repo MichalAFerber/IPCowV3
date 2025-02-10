@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/ads.txt",
+      "PackagePath": "staticwebassets/ads.txt"
+    },
+    {
       "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/css/bootstrap.min.css"
     },
@@ -13,36 +17,32 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-192x192.png",
-      "PackagePath": "staticwebassets/img/favicons/android-chrome-192x192.png"
-    },
-    {
-      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/android-chrome-512x512.png",
-      "PackagePath": "staticwebassets/img/favicons/android-chrome-512x512.png"
-    },
-    {
       "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/apple-touch-icon.png",
       "PackagePath": "staticwebassets/img/favicons/apple-touch-icon.png"
     },
     {
-      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-16x16.png",
-      "PackagePath": "staticwebassets/img/favicons/favicon-16x16.png"
-    },
-    {
-      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-32x32.png",
-      "PackagePath": "staticwebassets/img/favicons/favicon-32x32.png"
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon-96x96.png",
+      "PackagePath": "staticwebassets/img/favicons/favicon-96x96.png"
     },
     {
       "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.ico",
       "PackagePath": "staticwebassets/img/favicons/favicon.ico"
     },
     {
-      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/manifest.json",
-      "PackagePath": "staticwebassets/img/favicons/manifest.json"
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.svg",
+      "PackagePath": "staticwebassets/img/favicons/favicon.svg"
     },
     {
-      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/safari-pinned-tab.svg",
-      "PackagePath": "staticwebassets/img/favicons/safari-pinned-tab.svg"
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/site.webmanifest",
+      "PackagePath": "staticwebassets/img/favicons/site.webmanifest"
+    },
+    {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/web-app-manifest-192x192.png",
+      "PackagePath": "staticwebassets/img/favicons/web-app-manifest-192x192.png"
+    },
+    {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/web-app-manifest-512x512.png",
+      "PackagePath": "staticwebassets/img/favicons/web-app-manifest-512x512.png"
     },
     {
       "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/js/bootstrap.bundle.min.js",
@@ -291,6 +291,14 @@
     {
       "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/jquery/dist/jquery.slim.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
+    },
+    {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/robots.txt",
+      "PackagePath": "staticwebassets/robots.txt"
+    },
+    {
+      "Id": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/sitemap.xml",
+      "PackagePath": "staticwebassets/sitemap.xml"
     },
     {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.IPCowV3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

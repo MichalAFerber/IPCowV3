@@ -10,94 +10,100 @@
         </div>
     </div>
 
-<div class="p-4 mb-4 bg-body-tertiary rounded-3">
-    <div class="container-fluid py-2">
-        <h1 class="display-5 fw-bold"><span>IPv4: @ViewData["IPv4"]</span></h1>
-        <h1 class="display-5 fw-bold"><span>IPv6: @ViewData["IPv6"]</span></h1>
-        <p class="col-md-8 fs-4"><span>User Agent: @ViewData["UserAgent"]</span></p>
-        <button class="btn btn-primary btn-md" type="button" id="toggleButton" onclick="toggleDetails()"><i class="fa-solid fa-arrow-down"></i> Show More Details</button>
-    </div>
-    <script>
-        function toggleDetails() {
-            var detailsDiv = document.getElementById("MoreDetails");
-            var headerDiv = document.getElementById("HeaderToPrint");
-            var detailsButton = document.getElementById("toggleButton");
-            if (detailsDiv.style.display === "none") {
-                detailsDiv.style.display = "block";
-                headerDiv.style.display = "block";
-                detailsButton.innerText = "Hide More Details";
-                detailsButton.innerHTML = "<i class='fa-solid fa-arrow-right'></i> Hide More Details";
-            } else {
-                detailsDiv.style.display = "none";
-                headerDiv.style.display = "none";
-                detailsButton.innerHTML = "<i class='fa-solid fa-arrow-down'></i> Show More Details";
+    <div class="p-4 mb-4 bg-body-tertiary rounded-3">
+        <div class="container-fluid py-2">
+            <h1 class="display-5 fw-bold"><span>IPv4: @ViewData["IPv4"]</span></h1>
+            <h1 class="display-5 fw-bold"><span>IPv6: @ViewData["IPv6"]</span></h1>
+            <p class="col-md-8 fs-4"><span>User Agent: @ViewData["UserAgent"]</span></p>
+            <button class="btn btn-primary btn-md" type="button" id="toggleButton" onclick="toggleDetails()">
+            <i class="fa-solid fa-arrow-down"></i> Show More Details</button>
+        </div>
+        <script>
+            function toggleDetails() {
+                var detailsDiv = document.getElementById("MoreDetails");
+                var headerDiv = document.getElementById("HeaderToPrint");
+                var detailsButton = document.getElementById("toggleButton");
+                if (detailsDiv.style.display === "none") {
+                    detailsDiv.style.display = "block";
+                    headerDiv.style.display = "block";
+                    detailsButton.innerText = "Hide More Details";
+                    detailsButton.innerHTML = "<i class='fa-solid fa-arrow-right'></i> Hide More Details";
+                } else {
+                    detailsDiv.style.display = "none";
+                    headerDiv.style.display = "none";
+                    detailsButton.innerHTML = "<i class='fa-solid fa-arrow-down'></i> Show More Details";
+                }
             }
-        }
 
-        function printDetails() {
-            var printContents = document.getElementById("PrintView").innerHTML;
-            var originalContents = document.body.innerHTML;
+            function printDetails() {
+                var printContents = document.getElementById("PrintView").innerHTML;
+                var originalContents = document.body.innerHTML;
 
-            document.body.innerHTML = printContents;
-            window.print();
-            document.body.innerHTML = originalContents;
-            location.reload(); // Reload the page to restore the original content
-        }
-    </script>
-</div>
-
-<div id="MoreDetails" class="p-4 mb-4 bg-body-tertiary rounded-3" style="display: none;">
-    <div class="container-fluid py-2">
-        <!-- More Details -->
-        <p>
-            <span class="row">Hostname: <b>@ViewData["Hostname"]</b></span>
-            <span class="row">ISP: <b>@ViewData["ISP"]</b></span>
-            <span class="row">Browser: <b id="browserName"></b></span>
-            <span class="row">Browser Version: <b id="browserVersion"></b></span>
-            <span class="row">Operating System: <b id="osName"></b></span>
-            <span class="row">OS Version: <b id="osVersion"></b></span>
-            <span class="row">Device: <b id="deviceType"></b></span>
-            <span class="row">Screen Resolution: <b id="screenResolution"></b></span>
-            <span class="row">Viewport Size: <b id="viewportSize"></b></span>
-            <span class="row">Cookies Enabled: <b id="cookiesEnabled"></b></span>
-            <span class="row">JavaScript Enabled: <b id="javascriptEnabled"></b></span>
-            <span class="row">Language: <b id="language"></b></span>
-            <span class="row">Country: <b>@ViewData["Country"]</b></span>
-            <span class="row">Region: <b>@ViewData["Region"]</b></span>
-            <span class="row">City: <b>@ViewData["City"]</b></span>
-            <span class="row">Latitude: <b>@ViewData["Latitude"]</b></span>
-            <span class="row">Longitude: <b>@ViewData["Longitude"]</b></span>
-            <span class="row">Timezone: <b>@ViewData["Timezone"]</b></span>
-        </p>
-        <button class="btn btn-primary btn-md" type="button" id="printButton" onclick="printDetails()"><i class="fa-solid fa-print"></i> Print Details</button>
+                document.body.innerHTML = printContents;
+                window.print();
+                document.body.innerHTML = originalContents;
+                location.reload(); // Reload the page to restore the original content
+            }
+        </script>
     </div>
-    <script>
-        var parser = new UAParser();
-        var result = parser.getResult();
 
-        document.getElementById("browserName").innerText = result.browser.name;
-        document.getElementById("browserVersion").innerText = result.browser.version;
-        document.getElementById("osName").innerText = result.os.name;
-        document.getElementById("osVersion").innerText = result.os.version;
-        document.getElementById("deviceType").innerText = result.device.type || "desktop";
-        document.getElementById("screenResolution").innerText = screen.width + "x" + screen.height;
-        document.getElementById("viewportSize").innerText = window.innerWidth + "x" + window.innerHeight;
-        document.getElementById("cookiesEnabled").innerText = navigator.cookieEnabled;
-        document.getElementById("javascriptEnabled").innerText = typeof window !== 'undefined';
-        document.getElementById("language").innerText = navigator.language;
-    </script>
-</div>
+    <div id="MoreDetails" class="p-4 mb-4 bg-body-tertiary rounded-3" style="display: none;">
+        <div class="container-fluid py-2">
+            <!-- More Details -->
+            <p>
+                <span class="row">Hostname: <b>@ViewData["Hostname"]</b></span>
+                <span class="row">ISP: <b>@ViewData["ISP"]</b></span>
+                <span class="row">Browser: <b id="browserName"></b></span>
+                <span class="row">Browser Version: <b id="browserVersion"></b></span>
+                <span class="row">Operating System: <b id="osName"></b></span>
+                <span class="row">OS Version: <b id="osVersion"></b></span>
+                <span class="row">Device: <b id="deviceType"></b></span>
+                <span class="row">Screen Resolution: <b id="screenResolution"></b></span>
+                <span class="row">Viewport Size: <b id="viewportSize"></b></span>
+                <span class="row">Cookies Enabled: <b id="cookiesEnabled"></b></span>
+                <span class="row">JavaScript Enabled: <b id="javascriptEnabled"></b></span>
+                <span class="row">Language: <b id="language"></b></span>
+                <span class="row">Country: <b>@ViewData["Country"]</b></span>
+                <span class="row">Region: <b>@ViewData["Region"]</b></span>
+                <span class="row">City: <b>@ViewData["City"]</b></span>
+                <span class="row">Latitude: <b>@ViewData["Latitude"]</b></span>
+                <span class="row">Longitude: <b>@ViewData["Longitude"]</b></span>
+                <span class="row">Timezone: <b>@ViewData["Timezone"]</b></span>
+            </p>
+            <button class="btn btn-primary btn-md" type="button" id="printButton" onclick="printDetails()">
+            <i class="fa-solid fa-print"></i> Print Details</button>
+        </div>
+        <script>
+            var parser = new UAParser();
+            var result = parser.getResult();
+
+            document.getElementById("browserName").innerText = result.browser.name;
+            document.getElementById("browserVersion").innerText = result.browser.version;
+            document.getElementById("osName").innerText = result.os.name;
+            document.getElementById("osVersion").innerText = result.os.version;
+            document.getElementById("deviceType").innerText = result.device.type || "desktop";
+            document.getElementById("screenResolution").innerText = screen.width + "x" + screen.height;
+            document.getElementById("viewportSize").innerText = window.innerWidth + "x" + window.innerHeight;
+            document.getElementById("cookiesEnabled").innerText = navigator.cookieEnabled;
+            document.getElementById("javascriptEnabled").innerText = typeof window !== 'undefined';
+            document.getElementById("language").innerText = navigator.language;
+        </script>
+    </div>
 </span>
 
 <div class="p-4 mb-4 bg-body-tertiary rounded-3">
     <div class="container-fluid py-2">
         <!-- Ookla Custom Speedtest -->
-        <iframe id="Speedtest" title="Speedtest by Ookla" src="//ipcow.dualstack.speedtestcustom.com" width="100%" height="650" allowtransparency="true"></iframe>
+        <iframe id="Speedtest" title="Speedtest by Ookla" src="//ipcow.dualstack.speedtestcustom.com" width="100%"
+            height="650" allowtransparency="true"></iframe>
     </div>
 </div>
 
 <div class="p-4 mb-4 bg-body-tertiary rounded-3">
     <div class="container-fluid py-2">
-        <!-- Google Ads -->
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2167883673580425" crossorigin="anonymous"></script>
+        <!-- ads_spot -->
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2167883673580425" data-ad-slot="2260679329" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     </div>
 </div>
