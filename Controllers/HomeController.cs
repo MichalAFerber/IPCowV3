@@ -46,7 +46,7 @@ namespace IPCowV3.Controllers
         private async Task<LocationData?> GetLocationData(string ipAddress)
         {
             using var client = new HttpClient();
-            var response = await client.GetStringAsync($"https://api.ipgeolocation.io/ipgeo?apiKey=e37a08b322714a44909771955a2fb60c&include=liveHostname&ip={ipAddress}");
+            var response = await client.GetStringAsync($"https://api.ipgeolocation.io/ipgeo?apiKey=a8a4bd5fa1044dc6aa60792fd57101ba&include=liveHostname&ip={ipAddress}");
             return JsonConvert.DeserializeObject<LocationData>(response);
         }
 
