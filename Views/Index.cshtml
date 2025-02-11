@@ -5,15 +5,26 @@
 <span id="PrintView">
     <div id="HeaderToPrint" class="p-4 mb-4 bg-body-tertiary rounded-3 d-none d-print-block">
         <div class="container-fluid py-2">
-            <!-- Header to print -->
-            <h1 class="display-3 fw-bold"><span>IP Cow</span></h1>
+            <h1 class="display-4 fw-bold"><span>IP Cow</span></h1>
         </div>
     </div>
 
     <div class="p-4 mb-4 bg-body-tertiary rounded-3">
         <div class="container-fluid py-2">
-            <h1 class="display-5 fw-bold"><span>IPv4: @ViewData["IPv4"]</span></h1>
-            <h1 class="display-5 fw-bold"><span>IPv6: @ViewData["IPv6"]</span></h1>
+            @{
+                var ipv4 = ViewData["IPv4"]?.ToString();
+                var ipv6 = ViewData["IPv6"]?.ToString();
+            }
+
+            @if (ipv4 != "Not available")
+            {
+                <h2 class="display-6 fw-bold"><span>IPv4: @ipv4</span></h2>
+            }
+
+            @if (ipv6 != "Not available")
+            {
+                <h2 class="display-6 fw-bold"><span>IPv6: @ipv6</span></h2>
+            }
             <p class="col-md-8 fs-4"><span>User Agent: @ViewData["UserAgent"]</span></p>
             <button class="btn btn-primary btn-md" type="button" id="toggleButton" onclick="toggleDetails()">
             <i class="fa-solid fa-arrow-down"></i> Show More Details</button>

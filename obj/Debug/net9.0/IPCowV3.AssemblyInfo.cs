@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IPCowV3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+142320e8daf1295bd6c7a2551e18235239ae4ae4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7b2178c68a5ec5a7ab3b50eebb3d00e7edda197")]
 [assembly: System.Reflection.AssemblyProductAttribute("IPCowV3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IPCowV3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "d2bH4Ho+lfQ52j5MgF3dsFPssd5wFEvRT2XJqvAv/z4=",
+  "Hash": "eAKIE9mIEPwCpesPrbPNJVG1hM1EyAc51fFqYKVLPVg=",
   "Source": "IPCowV3",
   "BasePath": "_content/IPCowV3",
   "Mode": "Default",
@@ -521,12 +521,12 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-9gtr5awx3e.gz",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-i8da8hverv.gz",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/favicon#[.{fingerprint=9gtr5awx3e}]?.svg.gz",
+      "RelativePath": "img/favicons/favicon#[.{fingerprint=i8da8hverv}]?.svg.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -535,8 +535,8 @@
       "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ok9xnay4xl",
-      "Integrity": "uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg=",
+      "Fingerprint": "r2tgbyiyu9",
+      "Integrity": "zbUaTz12oHv+c5l3Ln6pRi8JA2KyVg5vEAjqehiY4zs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.svg"
@@ -1697,12 +1697,12 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-9gtr5awx3e.br",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-i8da8hverv.br",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/favicon#[.{fingerprint=9gtr5awx3e}]?.svg.br",
+      "RelativePath": "img/favicons/favicon#[.{fingerprint=i8da8hverv}]?.svg.br",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1711,8 +1711,8 @@
       "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "g443wq9dhj",
-      "Integrity": "YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I=",
+      "Fingerprint": "mzvyynrr7j",
+      "Integrity": "cmQ/dRCXOTE8wA1s5mC0egnx2A4KztMz7VMlVqVJd2c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.svg"
@@ -2600,12 +2600,12 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/ads.txt"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-ntmrd3kbap.br",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-o2jovf674o.br",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/site#[.{fingerprint=ntmrd3kbap}]?.webmanifest.br",
+      "RelativePath": "img/favicons/site#[.{fingerprint=o2jovf674o}]?.webmanifest.br",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2614,8 +2614,8 @@
       "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/site.webmanifest",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "uks8j70sty",
-      "Integrity": "rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ=",
+      "Fingerprint": "prj2qjaiex",
+      "Integrity": "lXa/yh8H6mlWxbvsic+4pISa+f8jNMCUnSjK5HrF7mA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/site.webmanifest"
@@ -2894,12 +2894,12 @@
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/ads.txt"
     },
     {
-      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-ntmrd3kbap.gz",
+      "Identity": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-o2jovf674o.gz",
       "SourceId": "IPCowV3",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/",
       "BasePath": "_content/IPCowV3",
-      "RelativePath": "img/favicons/site#[.{fingerprint=ntmrd3kbap}]?.webmanifest.gz",
+      "RelativePath": "img/favicons/site#[.{fingerprint=o2jovf674o}]?.webmanifest.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2908,8 +2908,8 @@
       "RelatedAsset": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/site.webmanifest",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9qhxhj3fvz",
-      "Integrity": "AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA=",
+      "Fingerprint": "vesljuwvlk",
+      "Integrity": "6ZF5EUZhluPF2iPV2tNq+AZ9wfTI5eGmsxpBVHmPqp4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/site.webmanifest"
@@ -3118,8 +3118,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9gtr5awx3e",
-      "Integrity": "J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=",
+      "Fingerprint": "i8da8hverv",
+      "Integrity": "gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/favicons/favicon.svg"
@@ -3139,8 +3139,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ntmrd3kbap",
-      "Integrity": "S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=",
+      "Fingerprint": "o2jovf674o",
+      "Integrity": "kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/favicons/site.webmanifest"
@@ -6612,7 +6612,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6657,7 +6657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6694,7 +6694,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6739,7 +6739,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6754,8 +6754,8 @@
       ]
     },
     {
-      "Route": "img/favicons/favicon.9gtr5awx3e.svg",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-9gtr5awx3e.gz",
+      "Route": "img/favicons/favicon.i8da8hverv.svg",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-i8da8hverv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6774,11 +6774,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg=\""
+          "Value": "\"zbUaTz12oHv+c5l3Ln6pRi8JA2KyVg5vEAjqehiY4zs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6798,13 +6798,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=\""
+          "Value": "W/\"gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9gtr5awx3e"
+          "Value": "i8da8hverv"
         },
         {
           "Name": "label",
@@ -6812,18 +6812,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc="
+          "Value": "sha256-gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA="
         }
       ]
     },
     {
-      "Route": "img/favicons/favicon.9gtr5awx3e.svg",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-9gtr5awx3e.br",
+      "Route": "img/favicons/favicon.i8da8hverv.svg",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-i8da8hverv.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000000386135"
+          "Quality": "0.000000386139"
         }
       ],
       "ResponseHeaders": [
@@ -6833,15 +6833,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2589770"
+          "Value": "2589742"
         },
         {
           "Name": "ETag",
-          "Value": "\"YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I=\""
+          "Value": "\"cmQ/dRCXOTE8wA1s5mC0egnx2A4KztMz7VMlVqVJd2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6861,13 +6861,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=\""
+          "Value": "W/\"gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9gtr5awx3e"
+          "Value": "i8da8hverv"
         },
         {
           "Name": "label",
@@ -6875,12 +6875,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc="
+          "Value": "sha256-gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA="
         }
       ]
     },
     {
-      "Route": "img/favicons/favicon.9gtr5awx3e.svg",
+      "Route": "img/favicons/favicon.i8da8hverv.svg",
       "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/favicon.svg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6898,11 +6898,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=\""
+          "Value": "\"gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6912,7 +6912,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9gtr5awx3e"
+          "Value": "i8da8hverv"
         },
         {
           "Name": "label",
@@ -6920,13 +6920,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc="
+          "Value": "sha256-gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA="
         }
       ]
     },
     {
-      "Route": "img/favicons/favicon.9gtr5awx3e.svg.br",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-9gtr5awx3e.br",
+      "Route": "img/favicons/favicon.i8da8hverv.svg.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-i8da8hverv.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6935,7 +6935,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2589770"
+          "Value": "2589742"
         },
         {
           "Name": "Content-Type",
@@ -6943,11 +6943,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I=\""
+          "Value": "\"cmQ/dRCXOTE8wA1s5mC0egnx2A4KztMz7VMlVqVJd2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6965,7 +6965,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9gtr5awx3e"
+          "Value": "i8da8hverv"
         },
         {
           "Name": "label",
@@ -6973,13 +6973,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I="
+          "Value": "sha256-cmQ/dRCXOTE8wA1s5mC0egnx2A4KztMz7VMlVqVJd2c="
         }
       ]
     },
     {
-      "Route": "img/favicons/favicon.9gtr5awx3e.svg.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-9gtr5awx3e.gz",
+      "Route": "img/favicons/favicon.i8da8hverv.svg.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-i8da8hverv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6996,11 +6996,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg=\""
+          "Value": "\"zbUaTz12oHv+c5l3Ln6pRi8JA2KyVg5vEAjqehiY4zs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7018,7 +7018,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9gtr5awx3e"
+          "Value": "i8da8hverv"
         },
         {
           "Name": "label",
@@ -7026,7 +7026,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg="
+          "Value": "sha256-zbUaTz12oHv+c5l3Ln6pRi8JA2KyVg5vEAjqehiY4zs="
         }
       ]
     },
@@ -7055,7 +7055,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7110,7 +7110,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7163,7 +7163,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7200,7 +7200,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7245,7 +7245,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7292,7 +7292,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7355,7 +7355,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7416,7 +7416,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7461,7 +7461,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7514,7 +7514,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7546,7 +7546,7 @@
     },
     {
       "Route": "img/favicons/favicon.svg",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-9gtr5awx3e.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-i8da8hverv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7565,11 +7565,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg=\""
+          "Value": "\"zbUaTz12oHv+c5l3Ln6pRi8JA2KyVg5vEAjqehiY4zs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7589,24 +7589,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=\""
+          "Value": "W/\"gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc="
+          "Value": "sha256-gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA="
         }
       ]
     },
     {
       "Route": "img/favicons/favicon.svg",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-9gtr5awx3e.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-i8da8hverv.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000000386135"
+          "Quality": "0.000000386139"
         }
       ],
       "ResponseHeaders": [
@@ -7616,15 +7616,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2589770"
+          "Value": "2589742"
         },
         {
           "Name": "ETag",
-          "Value": "\"YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I=\""
+          "Value": "\"cmQ/dRCXOTE8wA1s5mC0egnx2A4KztMz7VMlVqVJd2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7644,13 +7644,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=\""
+          "Value": "W/\"gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc="
+          "Value": "sha256-gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA="
         }
       ]
     },
@@ -7673,11 +7673,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=\""
+          "Value": "\"gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7687,13 +7687,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc="
+          "Value": "sha256-gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA="
         }
       ]
     },
     {
       "Route": "img/favicons/favicon.svg.br",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-9gtr5awx3e.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/cobacs7xp0-i8da8hverv.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7702,7 +7702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2589770"
+          "Value": "2589742"
         },
         {
           "Name": "Content-Type",
@@ -7710,11 +7710,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I=\""
+          "Value": "\"cmQ/dRCXOTE8wA1s5mC0egnx2A4KztMz7VMlVqVJd2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7732,13 +7732,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YDCnlmxcrOuE6fJEpj8TfgrxE8NLHApzUslUSWE5T2I="
+          "Value": "sha256-cmQ/dRCXOTE8wA1s5mC0egnx2A4KztMz7VMlVqVJd2c="
         }
       ]
     },
     {
       "Route": "img/favicons/favicon.svg.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-9gtr5awx3e.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/cobacs7xp0-i8da8hverv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7755,11 +7755,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg=\""
+          "Value": "\"zbUaTz12oHv+c5l3Ln6pRi8JA2KyVg5vEAjqehiY4zs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7777,18 +7777,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uK29euThQQxxwLm0xITndNkJ1WEjr+NfbhBDkAoLATg="
+          "Value": "sha256-zbUaTz12oHv+c5l3Ln6pRi8JA2KyVg5vEAjqehiY4zs="
         }
       ]
     },
     {
-      "Route": "img/favicons/site.ntmrd3kbap.webmanifest",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-ntmrd3kbap.br",
+      "Route": "img/favicons/site.o2jovf674o.webmanifest",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-o2jovf674o.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.005128205128"
+          "Quality": "0.004950495050"
         }
       ],
       "ResponseHeaders": [
@@ -7798,15 +7798,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "194"
+          "Value": "201"
         },
         {
           "Name": "ETag",
-          "Value": "\"rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ=\""
+          "Value": "\"lXa/yh8H6mlWxbvsic+4pISa+f8jNMCUnSjK5HrF7mA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7826,13 +7826,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=\""
+          "Value": "W/\"kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ntmrd3kbap"
+          "Value": "o2jovf674o"
         },
         {
           "Name": "label",
@@ -7840,18 +7840,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A="
+          "Value": "sha256-kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw="
         }
       ]
     },
     {
-      "Route": "img/favicons/site.ntmrd3kbap.webmanifest",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-ntmrd3kbap.gz",
+      "Route": "img/favicons/site.o2jovf674o.webmanifest",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-o2jovf674o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004065040650"
+          "Quality": "0.003921568627"
         }
       ],
       "ResponseHeaders": [
@@ -7861,15 +7861,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "245"
+          "Value": "254"
         },
         {
           "Name": "ETag",
-          "Value": "\"AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA=\""
+          "Value": "\"6ZF5EUZhluPF2iPV2tNq+AZ9wfTI5eGmsxpBVHmPqp4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7889,13 +7889,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=\""
+          "Value": "W/\"kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ntmrd3kbap"
+          "Value": "o2jovf674o"
         },
         {
           "Name": "label",
@@ -7903,12 +7903,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A="
+          "Value": "sha256-kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw="
         }
       ]
     },
     {
-      "Route": "img/favicons/site.ntmrd3kbap.webmanifest",
+      "Route": "img/favicons/site.o2jovf674o.webmanifest",
       "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/wwwroot/img/favicons/site.webmanifest",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7918,7 +7918,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "486"
+          "Value": "499"
         },
         {
           "Name": "Content-Type",
@@ -7926,11 +7926,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=\""
+          "Value": "\"kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7940,7 +7940,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ntmrd3kbap"
+          "Value": "o2jovf674o"
         },
         {
           "Name": "label",
@@ -7948,13 +7948,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A="
+          "Value": "sha256-kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw="
         }
       ]
     },
     {
-      "Route": "img/favicons/site.ntmrd3kbap.webmanifest.br",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-ntmrd3kbap.br",
+      "Route": "img/favicons/site.o2jovf674o.webmanifest.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-o2jovf674o.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7963,7 +7963,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "194"
+          "Value": "201"
         },
         {
           "Name": "Content-Type",
@@ -7971,11 +7971,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ=\""
+          "Value": "\"lXa/yh8H6mlWxbvsic+4pISa+f8jNMCUnSjK5HrF7mA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7993,7 +7993,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ntmrd3kbap"
+          "Value": "o2jovf674o"
         },
         {
           "Name": "label",
@@ -8001,13 +8001,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ="
+          "Value": "sha256-lXa/yh8H6mlWxbvsic+4pISa+f8jNMCUnSjK5HrF7mA="
         }
       ]
     },
     {
-      "Route": "img/favicons/site.ntmrd3kbap.webmanifest.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-ntmrd3kbap.gz",
+      "Route": "img/favicons/site.o2jovf674o.webmanifest.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-o2jovf674o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8016,7 +8016,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "245"
+          "Value": "254"
         },
         {
           "Name": "Content-Type",
@@ -8024,11 +8024,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA=\""
+          "Value": "\"6ZF5EUZhluPF2iPV2tNq+AZ9wfTI5eGmsxpBVHmPqp4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8046,7 +8046,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ntmrd3kbap"
+          "Value": "o2jovf674o"
         },
         {
           "Name": "label",
@@ -8054,18 +8054,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA="
+          "Value": "sha256-6ZF5EUZhluPF2iPV2tNq+AZ9wfTI5eGmsxpBVHmPqp4="
         }
       ]
     },
     {
       "Route": "img/favicons/site.webmanifest",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-ntmrd3kbap.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-o2jovf674o.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.005128205128"
+          "Quality": "0.004950495050"
         }
       ],
       "ResponseHeaders": [
@@ -8075,15 +8075,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "194"
+          "Value": "201"
         },
         {
           "Name": "ETag",
-          "Value": "\"rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ=\""
+          "Value": "\"lXa/yh8H6mlWxbvsic+4pISa+f8jNMCUnSjK5HrF7mA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8103,24 +8103,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=\""
+          "Value": "W/\"kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A="
+          "Value": "sha256-kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw="
         }
       ]
     },
     {
       "Route": "img/favicons/site.webmanifest",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-ntmrd3kbap.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-o2jovf674o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004065040650"
+          "Quality": "0.003921568627"
         }
       ],
       "ResponseHeaders": [
@@ -8130,15 +8130,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "245"
+          "Value": "254"
         },
         {
           "Name": "ETag",
-          "Value": "\"AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA=\""
+          "Value": "\"6ZF5EUZhluPF2iPV2tNq+AZ9wfTI5eGmsxpBVHmPqp4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8158,13 +8158,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=\""
+          "Value": "W/\"kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A="
+          "Value": "sha256-kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw="
         }
       ]
     },
@@ -8179,7 +8179,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "486"
+          "Value": "499"
         },
         {
           "Name": "Content-Type",
@@ -8187,11 +8187,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=\""
+          "Value": "\"kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8201,13 +8201,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A="
+          "Value": "sha256-kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw="
         }
       ]
     },
     {
       "Route": "img/favicons/site.webmanifest.br",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-ntmrd3kbap.br",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/publish/vxokq6ii3n-o2jovf674o.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8216,7 +8216,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "194"
+          "Value": "201"
         },
         {
           "Name": "Content-Type",
@@ -8224,11 +8224,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ=\""
+          "Value": "\"lXa/yh8H6mlWxbvsic+4pISa+f8jNMCUnSjK5HrF7mA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8246,13 +8246,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rrHLk6q3liAeTjVw2yzZxGP3s/NgOrxk765e8zj7QEQ="
+          "Value": "sha256-lXa/yh8H6mlWxbvsic+4pISa+f8jNMCUnSjK5HrF7mA="
         }
       ]
     },
     {
       "Route": "img/favicons/site.webmanifest.gz",
-      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-ntmrd3kbap.gz",
+      "AssetFile": "/Users/michal/Documents/GitHub/IPCowV3/obj/Release/net9.0/compressed/vxokq6ii3n-o2jovf674o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8261,7 +8261,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "245"
+          "Value": "254"
         },
         {
           "Name": "Content-Type",
@@ -8269,11 +8269,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA=\""
+          "Value": "\"6ZF5EUZhluPF2iPV2tNq+AZ9wfTI5eGmsxpBVHmPqp4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 14:39:32 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8291,7 +8291,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AaUzuvwt5wxrF5Um1Co2BWU3LSm5NYTT+X3OT21Z+GA="
+          "Value": "sha256-6ZF5EUZhluPF2iPV2tNq+AZ9wfTI5eGmsxpBVHmPqp4="
         }
       ]
     },
@@ -8318,7 +8318,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8363,7 +8363,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8400,7 +8400,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8437,7 +8437,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 19:34:42 GMT"
+          "Value": "Tue, 11 Feb 2025 05:53:14 GMT"
         },
         {
           "Name": "Cache-Control",

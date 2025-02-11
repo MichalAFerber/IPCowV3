@@ -120,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9gtr5awx3e</Fingerprint>
-      <Integrity>J2XOKiED/snWfHQRwmg/B6w3ihfZ4RWYpZc5YimPzQc=</Integrity>
+      <Fingerprint>i8da8hverv</Fingerprint>
+      <Integrity>gr36dik1A3N55G9C0Jhv7hl8K+VINMIz1k4m/Tsz4bA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\favicons\favicon.svg'))</OriginalItemSpec>
@@ -156,8 +156,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ntmrd3kbap</Fingerprint>
-      <Integrity>S8UIPxLzWnIuy9ZvMrn2mqWZPy6R/wWMkqock2AJO3A=</Integrity>
+      <Fingerprint>o2jovf674o</Fingerprint>
+      <Integrity>kLGNRQAlhJ9KSoLv7hZ8P7DtH3v6dtuzEcfjVkw/dHw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\favicons\site.webmanifest'))</OriginalItemSpec>
