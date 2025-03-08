@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>n2v03umt6j</Fingerprint>
-      <Integrity>safYvQyMZPf1R+Pn4xDH3j86qytFC2sp0SZnOtRId+o=</Integrity>
+      <Fingerprint>2a1heui8ev</Fingerprint>
+      <Integrity>Rrli4Ks/mGnFPEOMAyiV7+HlinDrujQZzPX1E3KALr0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -228,8 +228,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f3doc4w353</Fingerprint>
-      <Integrity>tcvCdMB/ytz8OYwq+347rWirgTMjriZlxB810hq0C+Q=</Integrity>
+      <Fingerprint>wq27majve3</Fingerprint>
+      <Integrity>qDe16HFmpDFCfNL6kC05aKkROy1fG+MCZfx+O7YgcGA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\color-modes.js'))</OriginalItemSpec>

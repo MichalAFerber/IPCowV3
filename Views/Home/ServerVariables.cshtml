@@ -1,0 +1,104 @@
+@model Dictionary<string, string>
+
+@{
+    ViewData["Title"] = "HTTP Headers";
+
+    var documentationLinks = new Dictionary<string, string>
+    {
+        { "Accept", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept" },
+        { "Accept-Encoding", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Encoding" },
+        { "Accept-Language", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language" },
+        { "Accept-Ranges", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Ranges" },
+        { "Access-Control-Allow-Credentials", "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS" },
+        { "Access-Control-Allow-Headers", "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS" },
+        { "Access-Control-Allow-Methods", "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS" },
+        { "Access-Control-Allow-Origin", "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS" },
+        { "Access-Control-Max-Age", "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS" },
+        { "Authorization", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization" },
+        { "Cache-Control", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control" },
+        { "Connection", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Connection" },
+        { "Content-Disposition", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Disposition" },
+        { "Content-Encoding", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/content-encoding" },
+        { "Content-Length", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length" },
+        { "Content-Range", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Range" },
+        { "Content-Security-Policy", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/content-security-policy" },
+        { "Content-Type", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type" },
+        { "Cookie", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cookie" },
+        { "Date", "https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524602(v=vs.90)#date" },
+        { "ETag", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/ETag" },
+        { "Expires", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Expires" },
+        { "Forwarded", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Forwarded" },
+        { "Host", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Host" },
+        { "HTTP_ACCEPT", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept" },
+        { "HTTP_ACCEPT_ENCODING", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Encoding" },
+        { "HTTP_ACCEPT_LANGUAGE", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language" },
+        { "HTTP_CONNECTION", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Connection" },
+        { "HTTP_COOKIE", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cookie" },
+        { "HTTP_HOST", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Host" },
+        { "HTTP_METHOD", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods" },
+        { "HTTP_REFERER", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer" },
+        { "HTTP_URL", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/URL" },
+        { "HTTP_USER_AGENT", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent" },
+        { "HTTP_VERSION", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Version" },
+        { "HTTPS", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/HTTPS" },
+        { "Last-Modified", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Last-Modified" },
+        { "Local IP Address", "https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524602(v=vs.90)#local_ip_address" },
+        { "Pragma", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Pragma" },
+        { "Query String", "https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524602(v=vs.90)#query_string" },
+        { "Referer", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referer" },
+        { "Referrer-Policy", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy" },
+        { "Remote IP Address", "https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524602(v=vs.90)#remote_ip_address" },
+        { "Request Method", "https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524602(v=vs.90)#request_method" },
+        { "Request Path", "https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524602(v=vs.90)#request_path" },
+        { "Server", "https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524602(v=vs.90)#server" },
+        { "Strict-Transport-Security", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security" },
+        { "User-Agent", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent" },
+        { "Vary", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Vary" },
+        { "Via", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Via" },
+        { "X-Forwarded-For", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Forwarded-For" },
+        { "X-Forwarded-Proto", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Forwarded-Proto" },
+        { "X-Frame-Options", "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options" },
+        { "X-Powered-By", "https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524602(v=vs.90)#x-powered-by" }
+    };
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>HTTP header fields are a list of strings sent and received by both the client program and server on every HTTP request and response. These headers are usually invisible to the end-user and are only processed or logged by the server and client applications. They define how information sent/received through the connection are encoded (as in Content-Encoding), the session verification and identification of the client (as in browser cookies, IP address, user-agent) or their anonymity thereof (VPN or proxy masking, user-agent spoofing), how the server should handle data (as in Do-Not-Track or Global Privacy Control), the age (the time it has resided in a shared cache) of the document being downloaded, amongst others.</p>
+
+<div class="table-responsive">
+    <table class="table table-striped table-bordered table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th class="nowrap">Header</th>
+                <th>Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="nowrap">
+                        @item.Key
+                        @if (documentationLinks.ContainsKey(item.Key))
+                        {
+                            <a href="@documentationLinks[item.Key]" target="_blank">
+                                <i class="fa-regular fa-circle-question"></i>
+                            </a>
+                        }
+                    </td>
+                    <td>@item.Value</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<p>
+    <b><u>References:</u></b>
+    <ul>
+        <li><a href="https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524602(v=vs.90)">Microsoft- IIS Server Variables</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers">Mozilla- HTTP headers</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/List_of_HTTP_header_fields">Wikipedia- List of HTTP header fields</a></li>
+    </ul>
+</p>

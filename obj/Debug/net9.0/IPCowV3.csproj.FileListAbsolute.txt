@@ -128,10 +128,8 @@
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/IPCowV3.pdb
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/IPCowV3.genruntimeconfig.cache
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/ref/IPCowV3.dll
-/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/0d1x3kgfjf-f3doc4w353.gz
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/o1rfewhqjq-46ein0sx1k.gz
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/mqvuue8adh-493y06b0oq.gz
-/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/hcqjj9h2xu-n2v03umt6j.gz
 /Users/michal/Documents/GitHub/IPCowV3/bin/Debug/net9.0/Newtonsoft.Json.dll
 /Users/michal/Documents/GitHub/IPCowV3/bin/Debug/net9.0/publish/package-lock.json
 /Users/michal/Documents/GitHub/IPCowV3/bin/Debug/net9.0/publish/package.json
@@ -144,3 +142,5 @@
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/dyazvkreiq-v7s0r8f81e.gz
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/cobacs7xp0-i8da8hverv.gz
 /Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/vxokq6ii3n-o2jovf674o.gz
+/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/0d1x3kgfjf-wq27majve3.gz
+/Users/michal/Documents/GitHub/IPCowV3/obj/Debug/net9.0/compressed/hcqjj9h2xu-2a1heui8ev.gz

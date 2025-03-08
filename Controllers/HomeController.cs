@@ -3,6 +3,7 @@ using IPCowV3.BusinessLogic;
 using Newtonsoft.Json;
 using System.Net.Http;
 using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace IPCowV3.Controllers
 {
@@ -43,12 +44,56 @@ namespace IPCowV3.Controllers
             return View("~/Views/Index.cshtml");
         }
 
+        public IActionResult ServerVariables()
+        {
+            var serverVariables = new Dictionary<string, string>();
+
+            // Add HTTP headers
+            foreach (var header in Request.Headers)
+            {
+                serverVariables[header.Key] = header.Value.ToString();
+            }
+
+            // Add additional server variables
+            serverVariables["Remote IP Address"] = HttpContext.Connection.RemoteIpAddress?.ToString();
+            serverVariables["Local IP Address"] = HttpContext.Connection.LocalIpAddress?.ToString();
+            serverVariables["Request Method"] = HttpContext.Request.Method;
+            serverVariables["Request Path"] = HttpContext.Request.Path;
+            serverVariables["Query String"] = HttpContext.Request.QueryString.Value;
+            serverVariables["User Agent"] = HttpContext.Request.Headers["User-Agent"].ToString();
+            serverVariables["Referer"] = HttpContext.Request.Headers["Referer"].ToString();
+
+            // Add common HTTP headers
+            var commonHeaders = new List<string>
+        {
+            "Accept", "Accept-Charset", "Accept-Encoding", "Accept-Language", "Authorization",
+            "Age", "Cache-Control", "Clear-Site-Data", "Connection", "Content-Language", "Content-Length",
+            "Content-Location", "Content-MD5", "Content-Range", "Content-Security-Policy", "Content-Type",
+            "Cookie", "Date", "ETag", "Expect", "Expires", "Forwarded", "From", "Host", "If-Match",
+            "If-Modified-Since", "If-None-Match", "If-Range", "If-Unmodified-Since", "Last-Modified",
+            "Link", "Location", "Max-Forwards", "Origin", "Pragma", "Proxy-Authenticate", "Proxy-Authorization",
+            "Range", "Referer", "Retry-After", "Server", "TE", "Trailer", "Transfer-Encoding", "Upgrade",
+            "User-Agent", "Vary", "Via", "Warning", "WWW-Authenticate", "X-Content-Type-Options"
+        };
+
+            foreach (var header in commonHeaders)
+            {
+                if (Request.Headers.ContainsKey(header))
+                {
+                    serverVariables[$"HTTP {header}"] = Request.Headers[header].ToString();
+                }
+            }
+
+            var sortedServerVariables = serverVariables.OrderBy(kv => kv.Key).ToDictionary(kv => kv.Key, kv => kv.Value);
+            return View(sortedServerVariables);
+        }
+
         private async Task<LocationData?> GetLocationData(string ipAddress)
         {
             try
             {
                 using var client = new HttpClient();
-                var response = await client.GetStringAsync($"https://api.ipgeolocation.io/ipgeo?apiKey=a8a4bd5fa1044dc6aa60792fd57101ba&include=liveHostname&ip={ipAddress}");
+                var response = await client.GetStringAsync($"https://api.ipgeolocation.io/ipgeo?apiKey=fa39b8656f6d4e4aa34762675213f1ab&ip={ipAddress}&fields=city&output=xml");
                 return JsonConvert.DeserializeObject<LocationData>(response);
             }
             catch
